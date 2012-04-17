@@ -7,6 +7,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   margin: 0;
   padding: 0;
+  text-align: left;
 }
 
 dfn {
@@ -22,6 +23,8 @@ body {
   padding: 0;
   width: 35em;
   max-width: 98%;
+  text-align: justify;
+  hyphens: auto;
 }
 
 p {
