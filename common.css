@@ -65,9 +65,10 @@ li {
  */
 
 body {
-  font-family: "Goudy Old Style", Garamond, "Bookman Old Style", Georgia, Times, serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 100%;
-  line-height: 1.3125;
+  font-weight: 300;
+  line-height: 1.625;
 }
 
 h1 { font-size: 2.25em;   line-height: 1.167; margin-bottom: .75em}
