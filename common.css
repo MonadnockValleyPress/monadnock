@@ -1,23 +1,13 @@
 /* Adapted from a stylesheet by Edward O'Connor */
 /* http://edward.oconnor.cx/ */
 
-/* Undo default HTML styling of some elements */
+/* Basic layout */
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: normal;
   margin: 0;
   padding: 0;
   text-align: left;
 }
-
-dfn {
-  font-style: normal;
-  font-weight: normal;
-  font-variant: small-caps;
-}
-
-/* Basic layout */
-
 body {
   margin: 1.3125em auto 0 auto;
   padding: 0;
@@ -28,12 +18,6 @@ body {
 }
 
 p {
-  font-size: large;
-  margin: 1.3125em 0;
-  padding: 0;
-}
-
-dt {
   font-size: large;
   margin: 1.3125em 0;
   padding: 0;
@@ -64,19 +48,32 @@ li {
  * 72pt = 4.5em
  */
 
+h1 { font-size: 2.25em;   line-height: 2.25em; }
+h2 { font-size: 1.5em;    line-height: 1.5em; margin-bottom: .75em }
+h3 { font-size: 1.3125em; line-height: 1.3125em; margin-bottom: .75em}
+h4 { font-size: 1.25em;   line-height: 1.25em; }
+h5 { font-size: 1.125em;  line-height: 1.125em; }
+h6 { font-size: 1em;      line-height: 1em; }
+
+/* Typefaces */
+
+@font-face {
+  font-family: Cardo;
+  src: url('Cardo104s.ttf') format('truetype');
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Bodoni, Cardo, Bembo, Garamond, Georgia, Times, serif;
+  font-weight: normal;
+}
+
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 100%;
+  font-family: Cardo, Bembo, Garamond, Georgia, Times, serif;
+  font-size: 90%;
   font-weight: 300;
   line-height: 1.625;
 }
 
-h1 { font-size: 2.25em;   line-height: 1.167; margin-bottom: .75em}
-h2 { font-size: 1.5em;    line-height: 1.75; margin-bottom: .75em}
-h3 { font-size: 1.3125em; line-height: 2; margin-bottom: .75em}
-h4 { font-size: 1.25em;   line-height: 1.05; }
-h5 { font-size: 1.125em;  line-height: 1.167; }
-h6 { font-size: 1em;      line-height: 1.3125; }
 
 /* Color */
 
@@ -86,7 +83,7 @@ body {
 }
 
 a:link, a:active, a:hover {
-  text-decoration: underline;
+  text-decoration: none;
   color: #009999;
 }
 
