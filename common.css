@@ -8,6 +8,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
   text-align: left;
 }
+
 body {
   margin: 1.3125em auto 0 auto;
   padding: 0;
@@ -49,8 +50,8 @@ li {
  */
 
 h1 { font-size: 2.25em;   line-height: 2.25em; }
-h2 { font-size: 1.5em;    line-height: 1.5em; margin-bottom: .75em }
-h3 { font-size: 1.3125em; line-height: 1.3125em; margin-bottom: .75em}
+h2 { font-size: 1.75em;   line-height: 1.75em;  margin-bottom: .75em }
+h3 { font-size: 1.5em;    line-height: 1.5em;   margin-bottom: .75em }
 h4 { font-size: 1.25em;   line-height: 1.25em; }
 h5 { font-size: 1.125em;  line-height: 1.125em; }
 h6 { font-size: 1em;      line-height: 1em; }
@@ -64,7 +65,7 @@ h6 { font-size: 1em;      line-height: 1em; }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: Bodoni, Cardo, Bembo, Garamond, Georgia, Times, serif;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 body {
