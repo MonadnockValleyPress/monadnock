@@ -17,9 +17,9 @@ statements are unofficial and are used only to satisfy our curiosity.
 REVENUE:
 
 Print                            41.94
-Ebook                           139.80
+Ebook                           191.75
                                 ------
-TOTAL                           181.74
+TOTAL                           233.69
 
 EXPENSES:
 
@@ -28,5 +28,5 @@ Proofs / samples        128.52
                         --------------
 TOTAL                           178.52
 
-PROFIT / (LOSS):                  3.22
+PROFIT / (LOSS):                 55.17
 
