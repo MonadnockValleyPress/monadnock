@@ -1,16 +1,18 @@
 A rough list of future publications by the Monadnock Valley Press...
 
-Last Updated: 2014-03-20
+Last Updated: 2014-04-27
 
 2014
 
 (DONE) Yeats: selected poems
 (DONE) Goethe: Maxims and Reflections
 (DONE) Ibsen: Pillars of Society
+(DONE) Thoreau: A Winter Walk
+(DONE) Emerson: Eulogy on Thoreau
+(DONE) Thoreau: Poems
 Montaigne: Book I, essays 4, 7, 8, 9, 18, 19, 25, 27
 Cicero: Tusculan Disputations
 remaining fragments and testimonia of Epicurus
-Thoreau: additional writings
 
 2015
 
@@ -18,6 +20,7 @@ Ibsen: A Doll's House
 Montaigne: Book I, essays 36, 38, 40, 42, 50, 53
 Spinoza: Ethics
 Lucretius: The Nature of Things
+Marcus Aurelius: Meditations
 Thoreau: additional writings
 
 2016
