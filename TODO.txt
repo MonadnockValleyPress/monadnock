@@ -1,6 +1,6 @@
-A rough list of future publications by the Monadnock Valley Press...
+A publication roadmap for the Monadnock Valley Press...
 
-Last Updated: 2014-05-04
+Last Updated: 2014-06-14
 
 2014
 
@@ -10,10 +10,10 @@ Last Updated: 2014-05-04
 (DONE) Thoreau: A Winter Walk
 (DONE) Emerson: Eulogy on Thoreau
 (DONE) Thoreau: Poems
-Thoreau: Letters to Harrison Blake
-Thoreau: Autumnal Tints
-Thoreau: The Succession of Forest Trees
-Thoreau: Huckleberries
+(DONE) Thoreau: The Succession of Forest Trees
+(DONE) Thoreau: Autumnal Tints
+(DONE) Thoreau: Letters to Harrison Blake
+(DONE) A.E. Housman: Last Poems
 Montaigne: Book I, essays 4, 7, 8, 9, 18, 19, 25, 27
 
 2015
@@ -25,7 +25,6 @@ Marcus Aurelius: Meditations
 2016
 
 Ibsen: Ghosts
-A.E. Housman: Last Poems
 Montaigne: selected essays from Book II
 Confucius: Analects
 Lucretius: The Nature of Things
