@@ -12,7 +12,7 @@ This document provides an informal accounting of revenue and expenses.
 Since the Monadnock Valley Press is not a business, the following income 
 statements are unofficial and are used only to satisfy our curiosity.
 
-Last Updated: 2014-06-08
+Last Updated: 2014-06-30
 
 ######################################
 
@@ -20,9 +20,9 @@ Last Updated: 2014-06-08
 
 REVENUE:
 
-Amazon                          177.18 
+Amazon                          193.69 
                                 ------
-TOTAL                           177.18
+TOTAL                           193.69
 
 EXPENSES:
 
@@ -31,7 +31,7 @@ Proofs / samples          0.00
                         --------------
 TOTAL                             0.00
 
-PROFIT / (LOSS):                177.18
+PROFIT / (LOSS):                193.69
 
 ######################################
 
