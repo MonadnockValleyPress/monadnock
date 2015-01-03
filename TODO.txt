@@ -1,6 +1,6 @@
 A publication roadmap for the Monadnock Valley Press...
 
-Last Updated: 2014-06-14
+Last Updated: 2015-01-02
 
 2014
 
@@ -14,33 +14,39 @@ Last Updated: 2014-06-14
 (DONE) Thoreau: Autumnal Tints
 (DONE) Thoreau: Letters to Harrison Blake
 (DONE) A.E. Housman: Last Poems
-Montaigne: Book I, essays 4, 7, 8, 9, 18, 19, 25, 27
+(DONE) Thoreau: Ktaadn
+(DONE) Thoreau: Chesuncook
+(DONE) Thoreau: The Allegash and the East Branch
+(DONE) Emerson: The American Scholar
+(DONE) Emerson: The Transcendentalist
 
 2015
 
 Ibsen: A Doll's House
-Montaigne: Book I, essays 36, 38, 40, 42, 50, 53
+Confucius: Analects
+Montaigne: Book I, essays 4, 7, 8, 9, 18, 19, 25, 27
 Marcus Aurelius: Meditations
+Emerson: Essays, Second Series
+Thoreau: A Week on the Concord and Merrimack Rivers
 
 2016
 
 Ibsen: Ghosts
-Montaigne: selected essays from Book II
-Confucius: Analects
+Montaigne: Book I, essays 36, 38, 40, 42, 50, 53
 Lucretius: The Nature of Things
 remaining fragments and testimonia of Epicurus
 
 2017
 
 Ibsen: An Enemy of the People
-Montaigne: selected essays
+Montaigne: Book II, essays 2, 6, etc.
 Spinoza: Ethics
-Cicero: Tusculan Disputations
-Benjamin Franklin: Autobiography
 
 2018
 
 Ibsen: The Wild Duck
+Cicero: Tusculan Disputations
+Benjamin Franklin: Autobiography
 
 2019
 
