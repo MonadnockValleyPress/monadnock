@@ -49,12 +49,12 @@ li {
  * 72pt = 4.5em
  */
 
-h1 { font-size: 2.25em;   line-height: 2.25em; }
-h2 { font-size: 1.75em;   line-height: 1.75em;  margin-bottom: .75em }
-h3 { font-size: 1.5em;    line-height: 1.5em;   margin-bottom: .75em }
-h4 { font-size: 1.25em;   line-height: 1.25em; }
-h5 { font-size: 1.125em;  line-height: 1.125em; }
-h6 { font-size: 1em;      line-height: 1em; }
+h1 { font-size: 2.25em; margin-bottom: 1em }
+h2 { font-size: 1.75em; margin-bottom: .75em}
+h3 { font-size: 1.5em; margin-bottom: .5em}
+h4 { font-size: 1.25em; margin-bottom: .375em}
+h5 { font-size: 1.125em; margin-bottom: .25em}
+h6 { font-size: 1em; margin-bottom: .25em}
 
 /* Typefaces */
 
