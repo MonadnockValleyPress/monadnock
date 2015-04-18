@@ -1,46 +1,28 @@
 A publication roadmap for the Monadnock Valley Press...
 
-Last Updated: 2015-01-02
-
-2014
-
-(DONE) Yeats: selected poems
-(DONE) Goethe: Maxims and Reflections
-(DONE) Ibsen: Pillars of Society
-(DONE) Thoreau: A Winter Walk
-(DONE) Emerson: Eulogy on Thoreau
-(DONE) Thoreau: Poems
-(DONE) Thoreau: The Succession of Forest Trees
-(DONE) Thoreau: Autumnal Tints
-(DONE) Thoreau: Letters to Harrison Blake
-(DONE) A.E. Housman: Last Poems
-(DONE) Thoreau: Ktaadn
-(DONE) Thoreau: Chesuncook
-(DONE) Thoreau: The Allegash and the East Branch
-(DONE) Emerson: The American Scholar
-(DONE) Emerson: The Transcendentalist
+Last Updated: 2015-04-18
 
 2015
 
-Ibsen: A Doll's House
+(DONE) Ibsen: A Doll's House
+Marcus Aurelius: Meditations
 Confucius: Analects
 Montaigne: Book I, essays 4, 7, 8, 9, 18, 19, 25, 27
-Marcus Aurelius: Meditations
-Emerson: Essays, Second Series
 Thoreau: A Week on the Concord and Merrimack Rivers
+Emerson: Essays, Second Series
 
 2016
 
 Ibsen: Ghosts
+Spinoza: Ethics
 Montaigne: Book I, essays 36, 38, 40, 42, 50, 53
 Lucretius: The Nature of Things
-remaining fragments and testimonia of Epicurus
 
 2017
 
 Ibsen: An Enemy of the People
 Montaigne: Book II, essays 2, 6, etc.
-Spinoza: Ethics
+remaining fragments and testimonia of Epicurus
 
 2018
 
