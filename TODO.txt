@@ -1,11 +1,11 @@
 A publication roadmap for the Monadnock Valley Press...
 
-Last Updated: 2015-04-18
+Last Updated: 2015-05-07
 
 2015
 
 (DONE) Ibsen: A Doll's House
-Marcus Aurelius: Meditations
+(DONE) Marcus Aurelius: Meditations
 Confucius: Analects
 Montaigne: Book I, essays 4, 7, 8, 9, 18, 19, 25, 27
 Thoreau: A Week on the Concord and Merrimack Rivers
