@@ -1,3 +1,5 @@
+MONADNOCK VALLEY PRESS FINANCIAL HISTORY
+
 In 2013, the Monadnock Valley Press began to publish some public-domain
 works in ebook and printed formats. So far, the following titles have 
 been made available:
@@ -9,7 +11,7 @@ Letters on Happiness by Peter Saint-Andre
 The Tao of Roark by Peter Saint-Andre
 
 This document provides an informal accounting of revenue and expenses. 
-Since the Monadnock Valley Press is not a business, the following income 
+Because the Monadnock Valley Press is not a business, the following income 
 statements are unofficial and are used only to satisfy our curiosity.
 
 Results Through: 2017-01-14
@@ -20,18 +22,19 @@ Results Through: 2017-01-14
 
 REVENUE:
 
-Amazon                          113.82 
+Amazon                           98.62 
+Cash sales                      150.00 
                                 ------
-TOTAL                           113.82
+TOTAL                           248.62
 
 EXPENSES:
 
 ISBN numbers              0.00
-Proofs / samples          0.00
+Proofs / samples        181.58
                         --------------
-TOTAL                             0.00
+TOTAL                           181.58
 
-PROFIT / (LOSS):                113.82
+PROFIT / (LOSS):                 67.04
 
 ######################################
 
