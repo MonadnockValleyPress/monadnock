@@ -12,7 +12,26 @@ This document provides an informal accounting of revenue and expenses.
 Since the Monadnock Valley Press is not a business, the following income 
 statements are unofficial and are used only to satisfy our curiosity.
 
-Results Through: 2015-12-31
+Results Through: 2017-01-14
+
+######################################
+
+2016 INCOME STATEMENT
+
+REVENUE:
+
+Amazon                          113.82 
+                                ------
+TOTAL                           113.82
+
+EXPENSES:
+
+ISBN numbers              0.00
+Proofs / samples          0.00
+                        --------------
+TOTAL                             0.00
+
+PROFIT / (LOSS):                113.82
 
 ######################################
 
