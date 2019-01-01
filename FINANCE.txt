@@ -1,20 +1,70 @@
 MONADNOCK VALLEY PRESS FINANCIAL HISTORY
 
-In 2013, the Monadnock Valley Press began to publish some public-domain
-works in ebook and printed formats. So far, the following titles have 
-been made available:
+Since 2013, the Monadnock Valley Press has published several public-domain
+works in ebook and printed formats, as follows:
 
-Anthem: The Definitive Text by Ayn Rand
-Ancient Fire by Peter Saint-Andre
-The Ism Book by Peter Saint-Andre
-Letters on Happiness by Peter Saint-Andre
-The Tao of Roark by Peter Saint-Andre
+Anthem: The Definitive Text by Ayn Rand (2013)
+Ancient Fire by Peter Saint-Andre (2013)
+The Ism Book by Peter Saint-Andre (2013)
+Letters on Happiness by Peter Saint-Andre (2013)
+Songs of Zarathustra by Peter Saint-Andre (2018)
+The Tao of Roark by Peter Saint-Andre (2012)
+The Upland Farm by Peter Saint-Andre (2017)
+Seasons of Thoreau by Henry David Thoreau (2017)
 
 This document provides an informal accounting of revenue and expenses. 
 Because the Monadnock Valley Press is not a business, the following income 
 statements are unofficial and are used only to satisfy our curiosity.
 
-Results Through: 2017-01-14
+Results Through: 2019-01-01
+
+######################################
+
+2018 INCOME STATEMENT
+
+REVENUE:
+
+Amazon                          722.98 
+Cash sales                        0.00 
+Thoreau Society                 180.00
+                                ------
+TOTAL                          +902.98
+
+EXPENSES:
+
+Amazon marketing        157.75
+Cost of books sold      136.25
+Domain names            398.26
+ISBN numbers            253.00
+Proofs and samples      108.69
+R&D                     384.75
+                        --------------
+TOTAL                         -1438.70
+
+PROFIT / (LOSS):              (535.72)
+
+######################################
+
+2017 INCOME STATEMENT
+
+REVENUE:
+
+Amazon                          210.42 
+Cash sales                        0.00 
+                                ------
+TOTAL                          +210.42
+
+EXPENSES:
+
+Amazon marketing          8.51
+Domain names             69.44
+ISBN numbers              0.00
+Proofs and samples        0.00
+R&D                      62.36
+                        --------------
+TOTAL                          -140.31
+
+PROFIT / (LOSS):                 70.11
 
 ######################################
 
@@ -25,16 +75,18 @@ REVENUE:
 Amazon                           98.62 
 Cash sales                      150.00 
                                 ------
-TOTAL                           248.62
+TOTAL                          +248.62
 
 EXPENSES:
 
+Domain names             69.44
 ISBN numbers              0.00
-Proofs / samples        181.58
+Proofs and samples      181.58
+R&D                     193.21
                         --------------
-TOTAL                           181.58
+TOTAL                          -444.23
 
-PROFIT / (LOSS):                 67.04
+PROFIT / (LOSS):              (195.61)
 
 ######################################
 
@@ -44,16 +96,18 @@ REVENUE:
 
 Amazon                          150.63 
                                 ------
-TOTAL                           150.63
+TOTAL                          +150.63
 
 EXPENSES:
 
+Domain names             69.44
 ISBN numbers              0.00
-Proofs / samples          0.00
+Proofs and samples        0.00
+R&D                      91.16
                         --------------
-TOTAL                             0.00
+TOTAL                          -160.60
 
-PROFIT / (LOSS):                150.63
+PROFIT / (LOSS):                (9.97)
 
 ######################################
 
@@ -63,16 +117,18 @@ REVENUE:
 
 Amazon                          332.82 
                                 ------
-TOTAL                           332.82
+TOTAL                          +332.82
 
 EXPENSES:
 
+Domain names             69.44
 ISBN numbers              0.00
-Proofs / samples          0.00
+Proofs and samples        0.00
+R&D                      20.75
                         --------------
-TOTAL                             0.00
+TOTAL                          - 90.19
 
-PROFIT / (LOSS):                332.82
+PROFIT / (LOSS):                242.63
 
 ######################################
 
@@ -82,15 +138,17 @@ REVENUE:
 
 Amazon                          242.68
                                 ------
-TOTAL                           242.68
+TOTAL                          +242.68
 
 EXPENSES:
 
+Domain names             69.44
 ISBN numbers             50.00
-Proofs / samples        128.52
+Proofs and samples      128.52
+R&D                      34.17
                         --------------
-TOTAL                           178.52
+TOTAL                          -282.13
 
-PROFIT / (LOSS):                 64.16
+PROFIT / (LOSS):               (39.45)
 
 ######################################
