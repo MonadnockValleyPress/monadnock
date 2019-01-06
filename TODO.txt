@@ -1,22 +1,23 @@
-A publication roadmap for the Monadnock Valley Press...
+This is a publication roadmap for the Monadnock Valley Press.
 
-Last Updated: 2019-01-04
+Previously published texts are catalogued at:
+
+http://monadnock.net/chronology.html
+
+Last Updated: 2019-01-05
 
 2019
 
 Cather: April Twilights
 Frost: New Hampshire
-Gibran: The Prophet
 Ibsen: Ghosts
-Ibsen: An Enemy of the People
-Ibsen: The Wild Duck
 Montaigne: Book I, essays 36, 38, 40, 42, 50, 53
 Rostand: Cyrano de Bergerac (Brian Hooker translation)
 
 2020
 
 Franklin: Autobiography
-Ibsen: Rosmersholm
+Ibsen: An Enemy of the People
 Lucretius: The Nature of Things
 Montaigne: Book II, essays 2, 6, etc.
 Zamyatin: We
@@ -24,27 +25,35 @@ Zamyatin: We
 2021
 
 Epictetus: Discourses
-Ibsen: The Lady from the Sea
+Ibsen: The Wild Duck
 Spinoza: Ethics
 
 2022
 
-Ibsen: Hedda Gabler
+Ibsen: Rosmersholm
 Epicurus: remaining fragments and testimonia
 
 2023
 
-Ibsen: The Master Builder
+Ibsen: The Lady from the Sea
 
 2024
 
-Ibsen: Little Eyolf
+Ibsen: Hedda Gabler
 
 2025
 
-Ibsen: John Gabriel Borkman
+Ibsen: The Master Builder
 
 2026
+
+Ibsen: Little Eyolf
+
+2027
+
+Ibsen: John Gabriel Borkman
+
+2028
 
 Ibsen: When We Dead Awaken
 
