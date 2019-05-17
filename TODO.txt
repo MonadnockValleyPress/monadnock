@@ -4,7 +4,7 @@ Previously published texts are catalogued at:
 
 http://monadnock.net/chronology.html
 
-Last Updated: 2019-04-28
+Last Updated: 2019-05-16
 
 2019
 
@@ -12,9 +12,7 @@ Frost: New Hampshire
 Ibsen: Ghosts
 Montaigne: Book I, essays 36, 38, 40, 42, 50, 53
 Rostand: Cyrano de Bergerac (Brian Hooker translation)
-Spenser: Epithalamion
 Keats: Odes
-Yeats: more poems
 Wordsworth: selected poems
 
 2020
@@ -31,7 +29,10 @@ Galileo: The Sidereal Messenger
 Ibsen: The Wild Duck
 Sophocles: Antigone (tr. Plumptre)
 Lucretius: The Nature of Things
-Yeats: poems from The Tower
+Yeats: poems from The Tower 
+- Sailing to Byzantium
+- Nineteen Hundred and Nineteen
+- Among Schoolchildren
 
 2022
 
