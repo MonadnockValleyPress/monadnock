@@ -4,11 +4,12 @@ Previously published texts are catalogued at:
 
 http://monadnock.net/chronology.html
 
-Last Updated: 2019-05-22
+Last Updated: 2019-09-12
 
 2019
 
 Frost: New Hampshire
+Millay: The Harp-Weaver and Other Poems
 Montaigne: Book I, essays 36, 38, 40, 42, 50, 53
 Rostand: Cyrano de Bergerac (Brian Hooker translation)
 
@@ -23,7 +24,6 @@ Zamyatin: We
 Epictetus: Discourses
 Galileo: The Sidereal Messenger
 Ibsen: The Wild Duck
-Lucretius: The Nature of Things
 Sophocles: Antigone (tr. Plumptre)
 Yeats: poems from The Tower 
 - Sailing to Byzantium
@@ -34,11 +34,12 @@ Yeats: poems from The Tower
 
 Epicurus: remaining fragments and testimonia
 Ibsen: Rosmersholm
-Spinoza: Ethics
+Lucretius: The Nature of Things
 
 2023
 
 Ibsen: The Lady from the Sea
+Spinoza: Ethics
 
 2024
 
