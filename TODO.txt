@@ -4,7 +4,7 @@ Previously published texts are catalogued at:
 
 http://monadnock.net/chronology.html
 
-Last Updated: 2019-12-16
+Last Updated: 2019-12-18
 
 2019
 
@@ -14,7 +14,7 @@ Rostand: Cyrano de Bergerac (Brian Hooker translation)
 2020
 
 Ibsen: An Enemy of the People
-Montaigne: Book II, essays 12, 20, 29, etc.
+Montaigne: Book II, essays 12, 20, 29, 31
 Zamyatin: We
 
 2021
@@ -22,6 +22,7 @@ Zamyatin: We
 Epictetus: Discourses
 Galileo: The Sidereal Messenger
 Ibsen: The Wild Duck
+Montaigne: Book III, essays 3, 8, 10, 13
 Sophocles: Antigone (tr. Plumptre)
 Yeats: poems from The Tower 
 - Sailing to Byzantium
