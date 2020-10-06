@@ -4,12 +4,17 @@ Previously published texts are catalogued at:
 
 http://monadnock.net/chronology.html
 
-Last Updated: 2020-10-02
+Last Updated: 2020-10-06
 
 2020
 
 Montaigne: Book II, essay 12
-Robinson: poems from Avon's Harvest and Roman Bartholemew
+Robinson: poems from Avon's Harvest
+- Mr. Flood's Party
+- Vain Gratuities
+- Modernities
+- Monadnock through the Trees
+- Many Are Called
 
 2021
 
@@ -17,8 +22,9 @@ Byron: selected poems
 Coleridge: selected poems
 Ibsen: The Wild Duck
 Montaigne: Book III, essays 3, 10, 13
-Robinson: poems from The Man Who Died Twice and Dionysius in Doubt
+Robinson: poems from Dionysius in Doubt
 Sophocles: Antigone (tr. Plumptre)
+Woolf: How Should One Read a Book?
 Yeats: poems from The Tower 
 - Sailing to Byzantium
 - Nineteen Hundred and Nineteen
@@ -35,7 +41,7 @@ Lucretius: The Nature of Things
 
 Epictetus: Discourses
 Ibsen: The Lady from the Sea
-Robinson: poems from Tristram
+Robinson: Tristram
 Spinoza: Ethics
 Woolf: To the Lighthouse
 
@@ -44,25 +50,22 @@ Woolf: To the Lighthouse
 Frost: poems from West-Running Brook
 Ibsen: Hedda Gabler
 Millay: poems from The Buck in the Snow
-Robinson: poems from Fortunatus and Sonnets 1889-1917
 Santayana: Skepticism and Animal Faith
 
 2025
 
+Benet: John Brown's Body
 Frost: poems from The Lovely Shall Be Choosers
 Ibsen: The Master Builder
-Robinson: poems from Cavender's House and Modred
 
 2026
 
 Ibsen: Little Eyolf
-Robinson: poems from The Glory of the Nightingales
 
 2027
 
 Ibsen: John Gabriel Borkman
 Millay: Poems from Fatal Interview
-Robinson: poems from Matthias at the Door
 
 2028
 
@@ -70,20 +73,27 @@ Ibsen: When We Dead Awaken
 
 2029
 
-Robinson: poems from Talifer
+Robinson: Talifer
 
 2030
 
 Millay: poems from Wine from These Grapes
-Robinson: poems from Amaranth
 
 2031
 
 Frost: poems from The Gold Hesperidee
-Robinson: poems from King Jasper
 Santayana: The Last Puritan
 
 2032
+
 Frost: poems from A Further Range and From Snow to Snow
+
+2033
+
+Benet: By the Waters of Babylon
+
+2033
+
+Wilder: Our Town
 
 END
