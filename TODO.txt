@@ -24,7 +24,7 @@ Ibsen: The Wild Duck
 Montaigne: Book III, essays 3, 10, 13
 Robinson: poems from Dionysius in Doubt
 Sophocles: Antigone (tr. Plumptre)
-Woolf: How Should One Read a Book?
+Woolf: On Not Knowing Greek; Montaigne; Jane Austen 
 Yeats: poems from The Tower 
 - Sailing to Byzantium
 - Nineteen Hundred and Nineteen
@@ -36,6 +36,7 @@ Epicurus: remaining fragments and testimonia
 Galileo: The Starry Messenger
 Ibsen: Rosmersholm
 Lucretius: The Nature of Things
+Woolf: How Should One Read a Book?
 
 2023
 
