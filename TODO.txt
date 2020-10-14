@@ -4,7 +4,7 @@ Previously published texts are catalogued at:
 
 http://monadnock.net/chronology.html
 
-Last Updated: 2020-10-06
+Last Updated: 2020-10-14
 
 2020
 
@@ -23,6 +23,10 @@ Coleridge: selected poems
 Ibsen: The Wild Duck
 Montaigne: Book III, essays 3, 10, 13
 Robinson: poems from Dionysius in Doubt
+- Dionysius in Doubt
+- The Man in Our Town
+- Glass Houses
+- Demos and Dionysius
 Sophocles: Antigone (tr. Plumptre)
 Woolf: On Not Knowing Greek; Montaigne; Jane Austen 
 Yeats: poems from The Tower 
