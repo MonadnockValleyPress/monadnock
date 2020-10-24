@@ -4,18 +4,20 @@ Previously published texts are catalogued at:
 
 http://monadnock.net/chronology.html
 
-Last Updated: 2020-10-22
+Last Updated: 2020-10-23
 
 2020
 
-Montaigne: Book II, essay 12
+Montaigne: 
+- Apology for Raimon Sebond
+- Of Managing the Will
+- Of Experience
 
 2021
 
 Byron: selected poems
 Coleridge: selected poems
 Ibsen: The Wild Duck
-Montaigne: Book III, essays 3, 10, 13
 Robinson: poems from Dionysius in Doubt
 - Dionysius in Doubt
 - The Man in Our Town
@@ -89,9 +91,6 @@ Frost: poems from A Further Range and From Snow to Snow
 2033
 
 Benet: By the Waters of Babylon
-
-2033
-
 Wilder: Our Town
 
 END
