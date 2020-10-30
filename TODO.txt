@@ -4,12 +4,13 @@ Previously published texts are catalogued at:
 
 http://monadnock.net/chronology.html
 
-Last Updated: 2020-10-28
+Last Updated: 2020-10-29
 
 2020
 
+Franklin: Autobiography
 Montaigne: 
-- Apology for Raimon Sebond
+- Apology for Raymond Sebond
 - Of Managing the Will
 - Of Experience
 
@@ -17,14 +18,20 @@ Montaigne:
 
 Byron: selected poems
 Coleridge: selected poems
-Hughes: poems from 1925
+Hughes: poems published in 1925
+- The Dream Keeper
+- Song
+- I, Too
 Ibsen: The Wild Duck
 Robinson: poems from Dionysius in Doubt
 - Dionysius in Doubt
 - The Man in Our Town
 - Glass Houses
 - Demos and Dionysius
-Woolf: On Not Knowing Greek; Montaigne; Jane Austen 
+Woolf: essays from the Common Reader
+- On Not Knowing Greek
+- Montaigne
+- Jane Austen 
 Yeats: poems from The Tower 
 - Sailing to Byzantium
 - Nineteen Hundred and Nineteen
@@ -34,7 +41,7 @@ Yeats: poems from The Tower
 
 Epicurus: remaining fragments and testimonia
 Galileo: The Starry Messenger
-Hughes: poems from 1926
+Hughes: poems published in 1926
 Ibsen: Rosmersholm
 Lucretius: The Nature of Things
 Woolf: How Should One Read a Book?
@@ -42,6 +49,7 @@ Woolf: How Should One Read a Book?
 2023
 
 Epictetus: Discourses
+Hughes: poems from Fine Clothes to the Jew
 Ibsen: The Lady from the Sea
 Robinson: Tristram
 Spinoza: Ethics
@@ -66,11 +74,14 @@ Ibsen: Little Eyolf
 
 2027
 
+Hughes: poems from Dear Lovely Death
+Hughes: poems from The Negro Mother and Other Dramatic Recitations
 Ibsen: John Gabriel Borkman
 Millay: Poems from Fatal Interview
 
 2028
 
+Hughes: poems from The Dream Keeper and Other Poems
 Ibsen: When We Dead Awaken
 
 2029
@@ -94,5 +105,9 @@ Frost: poems from A Further Range and From Snow to Snow
 
 Benet: By the Waters of Babylon
 Wilder: Our Town
+
+2034
+
+Hughes: poems from A New Song
 
 END
