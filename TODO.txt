@@ -4,10 +4,11 @@ Previously published texts are catalogued at:
 
 http://monadnock.net/chronology.html
 
-Last Updated: 2020-11-01
+Last Updated: 2020-11-03
 
 2020
 
+Byron: selected poems
 Franklin: Autobiography
 Montaigne: 
 - Apology for Raymond Sebond
@@ -16,7 +17,6 @@ Montaigne:
 
 2021
 
-Byron: selected poems
 Coleridge: selected poems
 Hughes: poems published in 1925
 - The Dream Keeper
@@ -60,7 +60,8 @@ Woolf: How Should One Read a Book?
 2023
 
 Epictetus: Discourses
-Hughes: poems from Fine Clothes to the Jew
+Hughes: poems published in 1927
+- A Letter to Anne
 Ibsen: The Lady from the Sea
 Robinson: Tristram
 Spinoza: Ethics
@@ -69,6 +70,8 @@ Woolf: To the Lighthouse
 2024
 
 Frost: poems from West-Running Brook
+Hughes: poems published in 1928
+- Alabama Earth
 Ibsen: Hedda Gabler
 Millay: poems from The Buck in the Snow
 Santayana: Skepticism and Animal Faith
@@ -81,6 +84,10 @@ Ibsen: The Master Builder
 
 2026
 
+Hughes: poems published in 1930
+- Dear Lovely Death
+- Spring for Lovers
+- Afro-American Fragment
 Ibsen: Little Eyolf
 
 2027
