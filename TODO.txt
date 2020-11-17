@@ -4,11 +4,24 @@ Previously published texts are catalogued at:
 
 http://monadnock.net/chronology.html
 
-Last Updated: 2020-11-10
+Last Updated: 2020-11-16
 
 2020
 
 Byron: selected poems
+- She Walks in Beauty
+- My Soul Is Dark
+- I Saw Thee Weep
+- By the Rivers of Babylon
+- There Be None of Beauty's Daughters
+- They Say that Hope is Happiness
+- Prometheus
+- Sonnet to Lake Leman
+- Epistle to Augusta
+- The Lament of Tasso
+- Ode on Venice
+- The Prophecy of Dante
+- Stanza to the Po
 Montaigne: 
 - Apology for Raymond Sebond
 - Of Experience
@@ -136,5 +149,20 @@ Wilder: Our Town
 
 Hughes: poems published in 1938
 - In Time of Silver Rain
+
+2039
+Hughes: poems published in 1943
+- Freedom's Plow
+- Wisdom
+- Words Like Freedom
+- Little Old Letter
+- Dear Mr. President
+- Blind
+- Freedom
+- To Captain Mulzac
+- Still Here
+Lane: The Discovery of Freedom
+Paterson: The God of the Machine
+Rand: The Fountainhead
 
 END
