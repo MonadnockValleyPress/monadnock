@@ -4,7 +4,7 @@ Previously published texts are catalogued at:
 
 http://monadnock.net/chronology.html
 
-Last Updated: 2020-11-27
+Last Updated: 2020-11-28
 
 2020
 
@@ -14,6 +14,7 @@ Montaigne:
 2021
 
 Donne: selected poems
+Douglass: Oration in Memory of Abraham Lincoln
 Hughes: poems published in 1925
 - The Dream Keeper
 - Song
@@ -22,6 +23,7 @@ Hughes: poems published in 1925
 - America
 - Minstrel Man
 Ibsen: The Wild Duck
+Paine: The Rights of Man
 Robinson: poems from Dionysius in Doubt
 - Dionysius in Doubt
 - The Man in Our Town
@@ -51,6 +53,7 @@ Hughes: poems published in 1926
 - Ardella
 Ibsen: Rosmersholm
 Lucretius: The Nature of Things
+Paine: The Age of Reason
 Woolf: How Should One Read a Book?
 
 2023
