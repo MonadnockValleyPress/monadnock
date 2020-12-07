@@ -2,9 +2,9 @@ This is a publication roadmap for the Monadnock Valley Press.
 
 Previously published texts are catalogued at:
 
-http://monadnock.net/chronology.html
+https://monadnock.net/chronology.html
 
-Last Updated: 2020-11-28
+Last Updated: 2020-12-07
 
 2020
 
@@ -13,7 +13,6 @@ Montaigne:
 
 2021
 
-Donne: selected poems
 Douglass: Oration in Memory of Abraham Lincoln
 Hughes: poems published in 1925
 - The Dream Keeper
