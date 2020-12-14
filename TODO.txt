@@ -4,7 +4,7 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2020-12-07
+Last Updated: 2020-12-13
 
 2020
 
@@ -13,7 +13,9 @@ Montaigne:
 
 2021
 
-Douglass: Oration in Memory of Abraham Lincoln
+Acton:
+- The History of Freedom in Antiquity
+- The History of Freedom in Christianity
 Hughes: poems published in 1925
 - The Dream Keeper
 - Song
