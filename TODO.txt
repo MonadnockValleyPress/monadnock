@@ -4,33 +4,24 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2020-12-13
-
-2020
-
-Montaigne: 
-- Apology for Raymond Sebond
+Last Updated: 2021-01-10
 
 2021
-
+Goethe: Wilhelm Meister's Apprenticeship
 Hughes: poems published in 1925
 - The Dream Keeper
 - Song
 - I, Too
 - Poem (To F.S.)
-- America
 - Minstrel Man
 Ibsen: The Wild Duck
+Montaigne: Apology for Raymond Sebond
 Paine: The Rights of Man
 Robinson: poems from Dionysius in Doubt
 - Dionysius in Doubt
 - The Man in Our Town
 - Glass Houses
 - Demos and Dionysius
-Yeats: poems from The Tower 
-- Sailing to Byzantium
-- Nineteen Hundred and Nineteen
-- Among Schoolchildren
 
 2022
 
@@ -70,6 +61,10 @@ Hughes: poems published in 1928
 Ibsen: Hedda Gabler
 Millay: poems from The Buck in the Snow
 Santayana: Skepticism and Animal Faith
+Yeats: poems from The Tower 
+- Sailing to Byzantium
+- Nineteen Hundred and Nineteen
+- Among Schoolchildren
 
 2025
 
@@ -106,6 +101,7 @@ Woolf: essays from the Common Reader
 
 2029
 
+Powys: The Philosophy of Solitude
 Robinson: Talifer
 
 2030
@@ -150,6 +146,7 @@ Hughes: poems published in 1943
 - To Captain Mulzac
 - Still Here
 Lane: The Discovery of Freedom
+Nock: Memoirs of a Superfluous Man
 Paterson: The God of the Machine
 Rand: The Fountainhead
 
