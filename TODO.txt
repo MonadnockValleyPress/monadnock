@@ -9,7 +9,9 @@ Last Updated: 2021-01-18
 2021
 Goethe: Wilhelm Meister's Apprenticeship
 Ibsen: The Wild Duck
-Lucian: dialogues
+Lucian:
+- The True History
+- Timon the Misanthrope
 Montaigne: Apology for Raymond Sebond
 Paine: The Rights of Man
 Robinson: poems from Dionysius in Doubt
