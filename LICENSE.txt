@@ -1,13 +1,13 @@
 All files here are in the public domain where possible:
 
-http://creativecommons.org/licenses/publicdomain/
+https://creativecommons.org/licenses/publicdomain/
 
 Because it is impossible in some jurisdictions for living 
 authors to commit works directly to the public domain, some
 works (or parts thereof) are covered under the Creative Commons
 CC0 license: 
 
-http://creativecommons.org/publicdomain/zero/1.0/
+https://creativecommons.org/publicdomain/zero/1.0/
 
 If you have questions or comments about the status of these
 works, please send email to editor@monadnock.net.
