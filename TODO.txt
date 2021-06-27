@@ -4,7 +4,7 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2021-01-21
+Last Updated: 2021-06-27
 
 2021
 Goethe: Wilhelm Meister's Apprenticeship
@@ -38,13 +38,13 @@ Woolf: How Should One Read a Book?
 2023
 
 Epictetus: Discourses
-Homer: The Iliad (tr. Pope)
+Homer: Iliad (tr. Pope)
 Hughes: poems published in 1927
 - A Letter to Anne
 Ibsen: The Lady from the Sea
-Pope: Eloisa to Abelard
 Robinson: Tristram
 Spinoza: Ethics
+Vergil: Aeneid (tr. Dryden)
 Woolf: To the Lighthouse
 
 2024
@@ -95,7 +95,6 @@ Woolf: essays from the Common Reader
 
 2029
 
-Powys: The Philosophy of Solitude
 Robinson: Talifer
 
 2030
