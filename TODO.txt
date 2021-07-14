@@ -4,7 +4,7 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2021-06-27
+Last Updated: 2021-07-14
 
 2021
 Goethe: Wilhelm Meister's Apprenticeship
@@ -13,8 +13,6 @@ Montaigne: Apology for Raymond Sebond
 Paine: The Rights of Man
 Robinson: poems from Dionysius in Doubt
 - Dionysius in Doubt
-- The Man in Our Town
-- Glass Houses
 - Demos and Dionysius
 
 2022
@@ -33,10 +31,12 @@ Hughes: poems published in 1926
 Ibsen: Rosmersholm
 Lucretius: The Nature of Things
 Paine: The Age of Reason
+Russell: The Problems of Philosophy
 Woolf: How Should One Read a Book?
 
 2023
 
+Dante: Commedia (tr. Longfellow)
 Epictetus: Discourses
 Homer: Iliad (tr. Pope)
 Hughes: poems published in 1927
