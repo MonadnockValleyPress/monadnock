@@ -4,17 +4,19 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2021-10-03
+Last Updated: 2021-10-08
 
 2021
 Montaigne: Apology for Raymond Sebond
 Robinson: poems from Dionysius in Doubt
 - Dionysius in Doubt
 - Demos and Dionysius
+Woolf: essays from the Common Reader
+- How Should One Read a Book?
+- On Not Knowing Greek
 
 2022
 
-Epicurus: remaining fragments and testimonia
 Galileo: The Starry Messenger
 Hughes: poems published in 1926
 - Young Sailor
@@ -27,9 +29,7 @@ Hughes: poems published in 1926
 - Ardella
 Ibsen: Rosmersholm
 Lucretius: The Nature of Things
-Paine: The Age of Reason
 Russell: The Problems of Philosophy
-Woolf: How Should One Read a Book?
 
 2023
 
@@ -46,6 +46,7 @@ Woolf: To the Lighthouse
 
 2024
 
+Epicurus: fragments and testimonia
 Frost: poems from West-Running Brook
 Hughes: poems published in 1928
 - Alabama Earth
@@ -85,10 +86,6 @@ Millay: Poems from Fatal Interview
 Hughes: poems published in 1932
 - Pennsylvania Station
 Ibsen: When We Dead Awaken
-Woolf: essays from the Common Reader
-- On Not Knowing Greek
-- Montaigne
-- Jane Austen 
 
 2029
 
