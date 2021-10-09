@@ -11,9 +11,8 @@ Montaigne: Apology for Raymond Sebond
 Robinson: poems from Dionysius in Doubt
 - Dionysius in Doubt
 - Demos and Dionysius
-Woolf: essays from the Common Reader
+Woolf: essays from the Common Reader, first series
 - How Should One Read a Book?
-- On Not Knowing Greek
 
 2022
 
@@ -101,6 +100,8 @@ Millay: poems from Wine from These Grapes
 
 Frost: poems from The Gold Hesperidee
 Santayana: The Last Puritan
+Woolf: essays from the Common Reader, second series
+- How Should One Read a Book?
 
 2032
 
