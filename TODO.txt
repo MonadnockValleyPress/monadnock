@@ -33,11 +33,13 @@ Lucretius: The Nature of Things
 Russell: The Problems of Philosophy
 Spinoza: Ethics
 Virgil: Aeneid (tr. Dryden)
+Voltaire: Treatise on Toleration
 
 2023
 
 Austen: Sense and Sensibility
 Cather: The Song of the Lark
+Defoe: Robinson Crusoe
 Eliot: The Mill on the Floss
 Epictetus: Discourses
 Epicurus: fragments and testimonia
@@ -46,6 +48,7 @@ Hughes: poems published in 1927
 - A Letter to Anne
 Ibsen: The Lady from the Sea
 Robinson: Tristram
+Stevenson: Treasure Island
 Woolf: To the Lighthouse
 
 2024
@@ -71,6 +74,7 @@ Benet: John Brown's Body
 Eliot: Romola
 Frost: poems from The Lovely Shall Be Choosers
 Ibsen: The Master Builder
+Swift: Gulliver's Travels
 
 2026
 
