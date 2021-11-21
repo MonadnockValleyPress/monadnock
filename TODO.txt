@@ -4,7 +4,7 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2021-11-12
+Last Updated: 2021-11-20
 
 2021
 Homer: The Odyssey (tr. Pope)
@@ -15,8 +15,10 @@ Robinson: poems from Dionysius in Doubt
 
 2022
 
+Austen: Northanger Abbey
+Cather: O Pioneers!
 Dante: Divine Comedy (tr. Longfellow)
-Eliot: Middlemarch
+Eliot: Adam Bede
 Hughes: poems published in 1926
 - Young Sailor
 - Love Song for Lucinda
@@ -34,7 +36,9 @@ Virgil: Aeneid (tr. Dryden)
 
 2023
 
-Eliot: selected poems
+Austen: Sense and Sensibility
+Cather: The Song of the Lark
+Eliot: The Mill on the Floss
 Epictetus: Discourses
 Epicurus: fragments and testimonia
 Galileo: The Starry Messenger
@@ -46,6 +50,9 @@ Woolf: To the Lighthouse
 
 2024
 
+Austen: Pride and Prejudice
+Cather: My Ántonia
+Eliot: Silas Marner
 Frost: poems from West-Running Brook
 Hughes: poems published in 1928
 - Alabama Earth
@@ -59,12 +66,16 @@ Yeats: poems from The Tower
 
 2025
 
+Austen: Mansfield Park
 Benet: John Brown's Body
+Eliot: Romola
 Frost: poems from The Lovely Shall Be Choosers
 Ibsen: The Master Builder
 
 2026
 
+Austen: Emma
+Eliot: Felix Holt, the Radical
 Hughes: poems published in 1930
 - Dear Lovely Death
 - Spring for Lovers
@@ -73,6 +84,8 @@ Ibsen: Little Eyolf
 
 2027
 
+Austen: Persuasion
+Eliot: Middlemarch
 Hughes: poems published in 1931
 - Helen Keller
 - Two Things
@@ -82,6 +95,7 @@ Millay: Poems from Fatal Interview
 
 2028
 
+Eliot: Daniel Deronda
 Hughes: poems published in 1932
 - Pennsylvania Station
 Ibsen: When We Dead Awaken
