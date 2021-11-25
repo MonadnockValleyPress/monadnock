@@ -4,7 +4,7 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2021-11-20
+Last Updated: 2021-11-24
 
 2021
 Homer: The Odyssey (tr. Pope)
@@ -70,9 +70,11 @@ Yeats: poems from The Tower
 2025
 
 Austen: Mansfield Park
+Behn: The Rover
 Benet: John Brown's Body
 Eliot: Romola
 Frost: poems from The Lovely Shall Be Choosers
+Hawthorne: The Scarlet Letter
 Ibsen: The Master Builder
 Swift: Gulliver's Travels
 
@@ -102,10 +104,12 @@ Millay: Poems from Fatal Interview
 Eliot: Daniel Deronda
 Hughes: poems published in 1932
 - Pennsylvania Station
+Huxley: Brave New World
 Ibsen: When We Dead Awaken
 
 2029
 
+Montesquieu: The Spirit of the Laws
 Robinson: Talifer
 
 2030
@@ -117,7 +121,9 @@ Millay: poems from Wine from These Grapes
 2031
 
 Frost: poems from The Gold Hesperidee
+Hugo: The Huncback of Notre-Dame
 Santayana: The Last Puritan
+Tocqueville: Democracy in America
 Woolf: essays from the Common Reader, second series
 - How Should One Read a Book?
 
@@ -127,6 +133,7 @@ Benet: The Devil and Daniel Webster
 Frost: poems from A Further Range and From Snow to Snow
 Hughes: poems published in 1936
 - Let America Be America Again
+Hugo: Les Miserables
 
 2033
 
@@ -134,12 +141,17 @@ Benet: By the Waters of Babylon
 Hughes: poems published in 1937
 - Note in Music
 - Search
+Hugo: The Toilers of the Sea
 Wilder: Our Town
 
 2034
 
 Hughes: poems published in 1938
 - In Time of Silver Rain
+Hugo: The Man Who Laughs
+
+2035
+Hugo: Ninety-Three
 
 2039
 Hughes: poems published in 1943
@@ -156,5 +168,8 @@ Lane: The Discovery of Freedom
 Nock: Memoirs of a Superfluous Man
 Paterson: The God of the Machine
 Rand: The Fountainhead
+
+2040
+Hayek: The Road to Serfdom
 
 END
