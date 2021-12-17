@@ -4,7 +4,7 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2021-12-01
+Last Updated: 2021-12-16
 
 2021
 Homer: The Odyssey (tr. Pope)
@@ -16,8 +16,10 @@ Stevens: poems from Harmonium
 
 2022
 
+Addison: Cato
 Austen: Northanger Abbey
 Cather: O Pioneers!
+Confucius: The Great Learning
 Dante: Divine Comedy (tr. Longfellow)
 Eliot: Adam Bede
 Hughes: poems published in 1926
@@ -36,6 +38,7 @@ Russell: The Problems of Philosophy
 Spinoza: Ethics
 Virgil: Aeneid (tr. Dryden)
 Voltaire: Treatise on Toleration
+Xenophon: Apology
 
 2023
 
@@ -46,17 +49,21 @@ Eliot: The Mill on the Floss
 Epictetus: Discourses
 Epicurus: fragments and testimonia
 Galileo: The Starry Messenger
+Hesiod: Works and Days
 Hughes: poems published in 1927
 - A Letter to Anne
 Ibsen: The Lady from the Sea
+Mencius: The Mencius
 Robinson: Tristram
 Stevenson: Treasure Island
 Woolf: To the Lighthouse
 
 2024
 
+Aeschylus: complete plays
 Austen: Pride and Prejudice
 Cather: My Ántonia
+Darwin: Voyage of the Beagle
 Eliot: Silas Marner
 Frost: poems from West-Running Brook
 Hughes: poems published in 1928
@@ -64,6 +71,7 @@ Hughes: poems published in 1928
 Ibsen: Hedda Gabler
 Millay: poems from The Buck in the Snow
 Santayana: Skepticism and Animal Faith
+Tzu-ssu: Practicing the Mean
 Yeats: poems from The Tower 
 - Sailing to Byzantium
 - Nineteen Hundred and Nineteen
@@ -78,31 +86,40 @@ Eliot: Romola
 Frost: poems from The Lovely Shall Be Choosers
 Hawthorne: The Scarlet Letter
 Ibsen: The Master Builder
+London: The Call of the Wild
 Milton: Paradise Lost
+Shakespeare: complete comedies
+Sophocles: complete plays
 Swift: Gulliver's Travels
 
 2026
 
 Austen: Emma
 Eliot: Felix Holt, the Radical
+Euripides: complete plays
 Hughes: poems published in 1930
 - Dear Lovely Death
 - Spring for Lovers
 - Afro-American Fragment
 Ibsen: Little Eyolf
+London: The Sea-Wolf
 Melville: Moby-Dick
 Ortega: The Revolt of the Masses
+Shakespeare: complete tragedies
 
 2027
 
 Austen: Persuasion
 Eliot: Middlemarch
+Herodotus: Histories
 Hughes: poems published in 1931
 - Helen Keller
 - Two Things
 - Demand
 Ibsen: John Gabriel Borkman
+London: Martin Eden
 Millay: Poems from Fatal Interview
+Shakespeare: complete histories
 
 2028
 
@@ -111,11 +128,14 @@ Hughes: poems published in 1932
 - Pennsylvania Station
 Huxley: Brave New World
 Ibsen: When We Dead Awaken
+London: The Iron Heel
+Thucydides: History of the Peloppenesian War
 
 2029
 
 Montesquieu: The Spirit of the Laws
 Robinson: Talifer
+Tocqueville: Democracy in America
 Twain: Adventures of Tom Sawyer
 
 2030
