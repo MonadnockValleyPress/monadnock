@@ -4,7 +4,7 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2021-12-16
+Last Updated: 2021-12-19
 
 2021
 Homer: The Odyssey (tr. Pope)
@@ -133,8 +133,11 @@ Thucydides: History of the Peloppenesian War
 
 2029
 
+Alcott: Little Women
 Montesquieu: The Spirit of the Laws
 Robinson: Talifer
+Rostand: L'Aiglon
+Stevenson: A Child's Garden of Verses
 Tocqueville: Democracy in America
 Twain: Adventures of Tom Sawyer
 
@@ -143,6 +146,7 @@ Twain: Adventures of Tom Sawyer
 Hughes: poems published in 1934
 - Moonlight Night: Carmel
 Millay: poems from Wine from These Grapes
+Rostand: Chanticleer
 Twain: Adventures of Huckleberry Finn
 
 2031
@@ -150,7 +154,6 @@ Twain: Adventures of Huckleberry Finn
 Frost: poems from The Gold Hesperidee
 Hugo: The Huncback of Notre-Dame
 Santayana: The Last Puritan
-Tocqueville: Democracy in America
 Woolf: essays from the Common Reader, second series
 - How Should One Read a Book?
 
