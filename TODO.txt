@@ -4,15 +4,13 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2021-12-19
+Last Updated: 2021-12-26
 
 2021
-Homer: The Odyssey (tr. Pope)
 Montaigne: Apology for Raymond Sebond
 Robinson: poems from Dionysius in Doubt
 - Dionysius in Doubt
 - Demos and Dionysius
-Stevens: poems from Harmonium
 
 2022
 
@@ -32,10 +30,12 @@ Hughes: poems published in 1926
 - Midnight Dancer
 - Ardella
 Ibsen: Rosmersholm
+James: Pragmatism
 James: Some Problems of Philosophy
 Lucretius: The Nature of Things
 Russell: The Problems of Philosophy
 Spinoza: Ethics
+Stevens: poems from Harmonium
 Virgil: Aeneid (tr. Dryden)
 Voltaire: Treatise on Toleration
 Xenophon: Apology
@@ -53,10 +53,12 @@ Hesiod: Works and Days
 Hughes: poems published in 1927
 - A Letter to Anne
 Ibsen: The Lady from the Sea
+Jefferson: Notes on the State of Virginia
 Mencius: The Mencius
 Robinson: Tristram
 Stevenson: Treasure Island
 Woolf: To the Lighthouse
+Xenophon: Memorabilia
 
 2024
 
@@ -72,6 +74,7 @@ Ibsen: Hedda Gabler
 Millay: poems from The Buck in the Snow
 Santayana: Skepticism and Animal Faith
 Tzu-ssu: Practicing the Mean
+Xenophon: Symposium
 Yeats: poems from The Tower 
 - Sailing to Byzantium
 - Nineteen Hundred and Nineteen
@@ -91,6 +94,7 @@ Milton: Paradise Lost
 Shakespeare: complete comedies
 Sophocles: complete plays
 Swift: Gulliver's Travels
+Xenophon: Oeconomicus
 
 2026
 
