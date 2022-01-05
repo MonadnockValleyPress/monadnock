@@ -4,18 +4,11 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2021-12-26
-
-2021
-Montaigne: Apology for Raymond Sebond
-Robinson: poems from Dionysius in Doubt
-- Dionysius in Doubt
-- Demos and Dionysius
+Last Updated: 2022-01-04
 
 2022
 
 Addison: Cato
-Austen: Northanger Abbey
 Cather: O Pioneers!
 Confucius: The Great Learning
 Dante: Divine Comedy (tr. Longfellow)
@@ -33,6 +26,8 @@ Ibsen: Rosmersholm
 James: Pragmatism
 James: Some Problems of Philosophy
 Lucretius: The Nature of Things
+Montaigne: Apology for Raymond Sebond
+Robinson: Demos and Dionysius
 Russell: The Problems of Philosophy
 Spinoza: Ethics
 Stevens: poems from Harmonium
