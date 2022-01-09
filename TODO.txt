@@ -4,7 +4,7 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2022-01-04
+Last Updated: 2022-01-08
 
 2022
 
@@ -27,7 +27,6 @@ James: Pragmatism
 James: Some Problems of Philosophy
 Lucretius: The Nature of Things
 Montaigne: Apology for Raymond Sebond
-Robinson: Demos and Dionysius
 Russell: The Problems of Philosophy
 Spinoza: Ethics
 Stevens: poems from Harmonium
