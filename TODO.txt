@@ -26,8 +26,12 @@ Ibsen: Rosmersholm
 James: Pragmatism
 James: Some Problems of Philosophy
 Lucretius: The Nature of Things
+Melville: Moby-Dick
+Milton: Paradise Lost
 Montaigne: Apology for Raymond Sebond
 Russell: The Problems of Philosophy
+Sophocles: Oedipus Tyrannus
+Sophocles: Oedipus at Colonus
 Spinoza: Ethics
 Stevens: poems from Harmonium
 Virgil: Aeneid (tr. Dryden)
@@ -50,6 +54,7 @@ Ibsen: The Lady from the Sea
 Jefferson: Notes on the State of Virginia
 Mencius: The Mencius
 Robinson: Tristram
+Sophocles: remaining plays
 Stevenson: Treasure Island
 Woolf: To the Lighthouse
 Xenophon: Memorabilia
@@ -84,9 +89,7 @@ Frost: poems from The Lovely Shall Be Choosers
 Hawthorne: The Scarlet Letter
 Ibsen: The Master Builder
 London: The Call of the Wild
-Milton: Paradise Lost
 Shakespeare: complete comedies
-Sophocles: complete plays
 Swift: Gulliver's Travels
 Xenophon: Oeconomicus
 
@@ -101,7 +104,6 @@ Hughes: poems published in 1930
 - Afro-American Fragment
 Ibsen: Little Eyolf
 London: The Sea-Wolf
-Melville: Moby-Dick
 Ortega: The Revolt of the Masses
 Shakespeare: complete tragedies
 
