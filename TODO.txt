@@ -8,7 +8,6 @@ Last Updated: 2022-01-21
 
 2022
 
-Addison: Cato
 Cather: O Pioneers!
 Confucius: The Great Learning
 Eliot: Adam Bede
@@ -37,9 +36,11 @@ Xenophon: Apology
 
 2023
 
+Addison: Cato
 Austen: Sense and Sensibility
 Cather: The Song of the Lark
 Defoe: Robinson Crusoe
+Durant: The Story of Philosophy
 Eliot: The Mill on the Floss
 Epictetus: Discourses
 Epicurus: fragments and testimonia
@@ -51,6 +52,7 @@ Ibsen: The Lady from the Sea
 Jefferson: Notes on the State of Virginia
 Mencius: The Mencius
 Robinson: Tristram
+Sidney: Discourses Concerning Government
 Sophocles: remaining plays
 Stevenson: Treasure Island
 Woolf: To the Lighthouse
