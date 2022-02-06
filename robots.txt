@@ -1,5 +1,2 @@
 User-agent: *
-Disallow: /review/
-Disallow: /opensource/
-Disallow: /tutorials/
-Disallow: /peter/
+Disallow:
