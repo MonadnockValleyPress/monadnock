@@ -28,7 +28,6 @@ Sophocles: Oedipus Tyrannus
 Sophocles: Oedipus at Colonus
 Spinoza: Ethics
 Stevens: poems from Harmonium
-Virgil: Aeneid (tr. Dryden)
 Voltaire: Treatise on Toleration
 Xenophon: Apology
 
