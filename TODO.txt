@@ -4,13 +4,14 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2022-03-14
+Last Updated: 2022-03-29
 
 2022
 
 Cather: O Pioneers!
 Eliot: Adam Bede
-Ibsen: Rosmersholm
+Jefferson: letter to Henry Lee
+Jonson: selected poems
 Melville: Moby-Dick
 Montaigne: Apology for Raymond Sebond
 Sophocles: Oedipus Tyrannus
@@ -22,6 +23,7 @@ Spinoza: Ethics
 Addison: Cato
 Austen: Sense and Sensibility
 Cather: The Song of the Lark
+Darwin: Autobiography
 Defoe: Robinson Crusoe
 Durant: The Story of Philosophy
 Eliot: The Mill on the Floss
@@ -34,6 +36,7 @@ Hughes: poems published in 1927
 Ibsen: The Lady from the Sea
 Jefferson: Notes on the State of Virginia
 Mencius: The Mencius
+Mill: Autobiography
 Robinson: Tristram
 Sidney: Discourses Concerning Government
 Sophocles: remaining plays
@@ -116,6 +119,7 @@ Thucydides: History of the Pelopennesian War
 2029
 
 Alcott: Little Women
+Mill: review of Tocqueville
 Montesquieu: The Spirit of the Laws
 Robinson: Talifer
 Rostand: L'Aiglon
