@@ -4,13 +4,11 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2022-03-29
+Last Updated: 2022-04-09
 
 2022
 
-Cather: O Pioneers!
 Eliot: Adam Bede
-Jefferson: letter to Henry Lee
 Melville: Moby-Dick
 Montaigne: Apology for Raymond Sebond
 Sophocles: Oedipus Tyrannus
@@ -33,7 +31,6 @@ Hesiod: Works and Days
 Hughes: poems published in 1927
 - A Letter to Anne
 Ibsen: The Lady from the Sea
-Jefferson: Notes on the State of Virginia
 Mencius: The Mencius
 Mill: Autobiography
 Robinson: Tristram
@@ -72,6 +69,8 @@ Eliot: Romola
 Frost: poems from The Lovely Shall Be Choosers
 Hawthorne: The Scarlet Letter
 Ibsen: The Master Builder
+Jefferson: letter to Henry Lee
+Jefferson: Notes on the State of Virginia
 London: The Call of the Wild
 Shakespeare: complete comedies
 Swift: Gulliver's Travels
@@ -104,6 +103,7 @@ Ibsen: John Gabriel Borkman
 London: Martin Eden
 Millay: Poems from Fatal Interview
 Shakespeare: complete histories
+Stowe: Uncle Tom's Cabin
 
 2028
 
@@ -166,9 +166,11 @@ Hughes: poems published in 1938
 Hugo: The Man Who Laughs
 
 2035
+
 Hugo: Ninety-Three
 
 2039
+
 Hughes: poems published in 1943
 - Freedom's Plow
 - Wisdom
