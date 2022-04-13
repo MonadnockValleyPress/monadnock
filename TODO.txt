@@ -4,10 +4,11 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2022-04-09
+Last Updated: 2022-04-13
 
 2022
 
+Arnold: selected poems
 Eliot: Adam Bede
 Melville: Moby-Dick
 Montaigne: Apology for Raymond Sebond
@@ -20,7 +21,6 @@ Spinoza: Ethics
 Addison: Cato
 Austen: Sense and Sensibility
 Cather: The Song of the Lark
-Darwin: Autobiography
 Defoe: Robinson Crusoe
 Durant: The Story of Philosophy
 Eliot: The Mill on the Floss
