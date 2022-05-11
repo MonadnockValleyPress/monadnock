@@ -4,13 +4,17 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2022-04-15
+Last Updated: 2022-05-10
 
 2022
 
 Eliot: Adam Bede
+E.M. Forster: The Machine Stops
 Melville: Moby-Dick
 Montaigne: Apology for Raymond Sebond
+Shakespeare: The Phoenix and the Turtle
+Shakespeare: The Rape of Lucrece
+Shakespeare: Venus and Adonis 
 Sophocles: Oedipus Tyrannus
 Sophocles: Oedipus at Colonus
 Spinoza: Ethics
@@ -18,6 +22,8 @@ Spinoza: Ethics
 2023
 
 Addison: Cato
+Aristotle: Nicomachean Ethics
+Aristotle: Politics
 Austen: Sense and Sensibility
 Cather: The Song of the Lark
 Defoe: Robinson Crusoe
@@ -36,6 +42,7 @@ Robinson: Tristram
 Sidney: Discourses Concerning Government
 Sophocles: remaining plays
 Stevenson: Treasure Island
+Sullivan: The Autobiography of an Idea
 Woolf: To the Lighthouse
 Xenophon: Memorabilia
 
@@ -45,13 +52,16 @@ Aeschylus: complete plays
 Austen: Pride and Prejudice
 Cather: My Ántonia
 Darwin: Voyage of the Beagle
+Davenant: In Remembrance of Master William Shakespeare
 Eliot: Silas Marner
 Frost: poems from West-Running Brook
 Hughes: poems published in 1928
 - Alabama Earth
+Hugo: William Shakespeare
 Ibsen: Hedda Gabler
 Millay: poems from The Buck in the Snow
 Santayana: Skepticism and Animal Faith
+Twain: Is Shakespeare Dead?
 Tzu-ssu: Practicing the Mean
 Xenophon: Symposium
 Yeats: poems from The Tower 
@@ -157,6 +167,11 @@ Hughes: poems published in 1937
 - Search
 Hugo: The Toilers of the Sea
 Wilder: Our Town
+Zaturenska: poems from Cold Morning Sky 
+- The Messenger
+- Cold Morning Sky
+- Images in Lake Water
+- Lullaby
 
 2034
 
