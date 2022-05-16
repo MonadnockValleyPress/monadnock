@@ -4,17 +4,17 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2022-05-10
+Last Updated: 2022-05-15
 
 2022
 
 Eliot: Adam Bede
-E.M. Forster: The Machine Stops
+Forster: The Machine Stops
 Melville: Moby-Dick
 Montaigne: Apology for Raymond Sebond
+Shakespeare: A Lover's Complaint
 Shakespeare: The Phoenix and the Turtle
 Shakespeare: The Rape of Lucrece
-Shakespeare: Venus and Adonis 
 Sophocles: Oedipus Tyrannus
 Sophocles: Oedipus at Colonus
 Spinoza: Ethics
@@ -39,6 +39,7 @@ Ibsen: The Lady from the Sea
 Mencius: The Mencius
 Mill: Autobiography
 Robinson: Tristram
+Shakespeare: complete comedies
 Sidney: Discourses Concerning Government
 Sophocles: remaining plays
 Stevenson: Treasure Island
@@ -52,16 +53,14 @@ Aeschylus: complete plays
 Austen: Pride and Prejudice
 Cather: My Ántonia
 Darwin: Voyage of the Beagle
-Davenant: In Remembrance of Master William Shakespeare
 Eliot: Silas Marner
 Frost: poems from West-Running Brook
 Hughes: poems published in 1928
 - Alabama Earth
-Hugo: William Shakespeare
 Ibsen: Hedda Gabler
 Millay: poems from The Buck in the Snow
 Santayana: Skepticism and Animal Faith
-Twain: Is Shakespeare Dead?
+Shakespeare: complete tragedies
 Tzu-ssu: Practicing the Mean
 Xenophon: Symposium
 Yeats: poems from The Tower 
@@ -81,23 +80,25 @@ Ibsen: The Master Builder
 Jefferson: letter to Henry Lee
 Jefferson: Notes on the State of Virginia
 London: The Call of the Wild
-Shakespeare: complete comedies
+Shakespeare: complete histories
 Swift: Gulliver's Travels
 Xenophon: Oeconomicus
 
 2026
 
 Austen: Emma
+Davenant: In Remembrance of Master William Shakespeare
 Eliot: Felix Holt, the Radical
 Euripides: complete plays
 Hughes: poems published in 1930
 - Dear Lovely Death
 - Spring for Lovers
 - Afro-American Fragment
+Hugo: William Shakespeare
 Ibsen: Little Eyolf
 London: The Sea-Wolf
 Ortega: The Revolt of the Masses
-Shakespeare: complete tragedies
+Twain: Is Shakespeare Dead?
 
 2027
 
@@ -111,7 +112,6 @@ Hughes: poems published in 1931
 Ibsen: John Gabriel Borkman
 London: Martin Eden
 Millay: Poems from Fatal Interview
-Shakespeare: complete histories
 Stowe: Uncle Tom's Cabin
 
 2028
