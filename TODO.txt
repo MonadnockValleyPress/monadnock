@@ -4,7 +4,7 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2022-05-19
+Last Updated: 2022-05-20
 
 2022
 
@@ -13,7 +13,6 @@ Forster: The Machine Stops
 Melville: Moby-Dick
 Montaigne: Apology for Raymond Sebond
 Shakespeare: The Phoenix and the Turtle
-Shakespeare: The Rape of Lucrece
 Sophocles: Oedipus Tyrannus
 Sophocles: Oedipus at Colonus
 Spinoza: Ethics
