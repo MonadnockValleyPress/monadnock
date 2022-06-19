@@ -4,7 +4,7 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2022-05-20
+Last Updated: 2022-06-19
 
 2022
 
@@ -16,6 +16,7 @@ Shakespeare: The Phoenix and the Turtle
 Sophocles: Oedipus Tyrannus
 Sophocles: Oedipus at Colonus
 Spinoza: Ethics
+Teasdale: poems from Dark of the Moon
 
 2023
 
@@ -96,6 +97,7 @@ Hugo: William Shakespeare
 Ibsen: Little Eyolf
 London: The Sea-Wolf
 Ortega: The Revolt of the Masses
+Teasdale: poems from Stars To-night
 Twain: Is Shakespeare Dead?
 
 2027
@@ -130,6 +132,7 @@ Montesquieu: The Spirit of the Laws
 Robinson: Talifer
 Rostand: L'Aiglon
 Stevenson: A Child's Garden of Verses
+Teasdale: poems from Strange Victory
 Tocqueville: Democracy in America
 Twain: Adventures of Tom Sawyer
 
