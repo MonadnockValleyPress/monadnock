@@ -4,7 +4,7 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2022-06-20
+Last Updated: 2022-06-26
 
 2022
 
@@ -12,7 +12,6 @@ Eliot: Adam Bede
 Forster: The Machine Stops
 Melville: Moby-Dick
 Montaigne: Apology for Raymond Sebond
-Shakespeare: The Phoenix and the Turtle
 Sophocles: Oedipus Tyrannus
 Sophocles: Oedipus at Colonus
 Spinoza: Ethics
@@ -177,6 +176,7 @@ Hugo: Les Miserables
 2033
 
 Benet: By the Waters of Babylon
+Fletcher: "Ascent of Monadnock"
 Hughes: poems published in 1937
 - Note in Music
 - Search
