@@ -4,7 +4,7 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2022-06-26
+Last Updated: 2022-06-27
 
 2022
 
@@ -15,21 +15,6 @@ Montaigne: Apology for Raymond Sebond
 Sophocles: Oedipus Tyrannus
 Sophocles: Oedipus at Colonus
 Spinoza: Ethics
-Teasdale: poems from Dark of the Moon
-- On the Sussex Downs
-- There Will Be Stars
-- Beautiful, Proud Sea
-- Sand Drift
-- Appraisal
-- Midsummer Night
-- The Solitary
-- Day's Ending
-- Wisdom
-- Autumn Dusk
-- The Beloved
-- Dedication
-- On a March Day
-- The Flight
 
 2023
 
@@ -160,7 +145,7 @@ Twain: Adventures of Huckleberry Finn
 2031
 
 Frost: poems from The Gold Hesperidee
-Hugo: The Huncback of Notre-Dame
+Hugo: The Hunchback of Notre-Dame
 Santayana: The Last Puritan
 Woolf: essays from the Common Reader, second series
 - How Should One Read a Book?
