@@ -4,15 +4,13 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2022-07-04
+Last Updated: 2022-07-09
 
 2022
 
 Eliot: Adam Bede
 Hillyer: poems from The Halt in the Garden
-Melville: Moby-Dick
 Montaigne: Apology for Raymond Sebond
-Sophocles: Oedipus Tyrannus
 Sophocles: Oedipus at Colonus
 Spinoza: Ethics
 
@@ -33,12 +31,13 @@ Hesiod: Works and Days
 Hughes: poems published in 1927
 - A Letter to Anne
 Ibsen: The Lady from the Sea
+Melville: Benito Cereno; The Encantadas
 Mencius: The Mencius
 Mill: Autobiography
 Robinson: Tristram
 Shakespeare: complete comedies
 Sidney: Discourses Concerning Government
-Sophocles: remaining plays
+Sophocles: Ajax; Electra; Philoctetes; Women of Trachis
 Stevenson: Treasure Island
 Sullivan: The Autobiography of an Idea
 Woolf: To the Lighthouse
