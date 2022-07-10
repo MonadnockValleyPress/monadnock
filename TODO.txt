@@ -4,15 +4,13 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2022-07-09
+Last Updated: 2022-07-10
 
 2022
 
 Eliot: Adam Bede
 Hillyer: poems from The Halt in the Garden
 Montaigne: Apology for Raymond Sebond
-Sophocles: Oedipus at Colonus
-Spinoza: Ethics
 
 2023
 
@@ -31,13 +29,13 @@ Hesiod: Works and Days
 Hughes: poems published in 1927
 - A Letter to Anne
 Ibsen: The Lady from the Sea
-Melville: Benito Cereno; The Encantadas
 Mencius: The Mencius
 Mill: Autobiography
 Robinson: Tristram
 Shakespeare: complete comedies
 Sidney: Discourses Concerning Government
-Sophocles: Ajax; Electra; Philoctetes; Women of Trachis
+Sophocles: Ajax
+Spinoza: Ethics
 Stevenson: Treasure Island
 Sullivan: The Autobiography of an Idea
 Woolf: To the Lighthouse
@@ -58,6 +56,7 @@ Ibsen: Hedda Gabler
 Millay: poems from The Buck in the Snow
 Santayana: Skepticism and Animal Faith
 Shakespeare: complete tragedies
+Sophocles: Electra
 Tzu-ssu: Practicing the Mean
 Xenophon: Symposium
 Yeats: poems from The Tower 
@@ -75,9 +74,9 @@ Frost: poems from The Lovely Shall Be Choosers
 Hawthorne: The Scarlet Letter
 Ibsen: The Master Builder
 Jefferson: letter to Henry Lee
-Jefferson: Notes on the State of Virginia
 London: The Call of the Wild
 Shakespeare: complete histories
+Sophocles: Philoctetes
 Swift: Gulliver's Travels
 Xenophon: Oeconomicus
 
@@ -94,9 +93,10 @@ Hughes: poems published in 1930
 - Afro-American Fragment
 Hugo: William Shakespeare
 Ibsen: Little Eyolf
+Jefferson: Notes on the State of Virginia
 London: The Sea-Wolf
 Ortega: The Revolt of the Masses
-Teasdale: poems from Stars To-night
+Sophocles: Women of Trachis
 Twain: Is Shakespeare Dead?
 
 2027
@@ -142,6 +142,13 @@ Hughes: poems published in 1934
 Millay: poems from Wine from These Grapes
 Rostand: Chanticleer
 Twain: Adventures of Huckleberry Finn
+Wurdemann: poems from Bright Ambush
+- Love’s Instant
+- Who Thinks Love is a Prize to Put Away (For Eros II)
+- Do You Remember (For Eros X)
+- Microcosmos
+- Keen Cold
+- Easter at Whitby
 
 2031
 
