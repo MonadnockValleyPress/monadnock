@@ -4,7 +4,7 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2022-07-17
+Last Updated: 2022-07-20
 
 2022
 
@@ -49,6 +49,12 @@ Darwin: Voyage of the Beagle
 Eliot: Silas Marner
 Frost: poems from West-Running Brook
 Hillyer: poems from The Seventh Hill
+- Happy art thou, my phantom saint
+- The stars came, but her Love came never
+- Strong wills there are that dare the worst
+- Always more riches
+- August afternoon
+- Pan of the Crossroads
 Hughes: poems published in 1928
 - Alabama Earth
 Ibsen: Hedda Gabler
@@ -71,6 +77,8 @@ Behn: The Rover
 Benet: John Brown's Body
 Eliot: Romola
 Frost: poems from The Lovely Shall Be Choosers
+Galton: Memories of My Life
+Harrington: The Commonwealth of Oceana
 Hawthorne: The Scarlet Letter
 Ibsen: The Master Builder
 Jefferson: letter to Henry Lee
