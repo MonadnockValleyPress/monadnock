@@ -4,7 +4,7 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2022-07-20
+Last Updated: 2022-07-22
 
 2022
 
@@ -60,6 +60,9 @@ Hughes: poems published in 1928
 Ibsen: Hedda Gabler
 Millay: poems from The Buck in the Snow
 Nock: essays from On Doing the Right Thing
+- The Decline of Conversation
+- On Making Low People Interesting
+- A Cultural Forecast
 Santayana: Skepticism and Animal Faith
 Shakespeare: complete tragedies
 Sophocles: Electra
