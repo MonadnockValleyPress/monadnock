@@ -36,6 +36,7 @@ Shakespeare: complete comedies
 Sidney: Discourses Concerning Government
 Sophocles: Ajax
 Sullivan: The Autobiography of an Idea
+Twain: Autobiography
 Woolf: To the Lighthouse
 Xenophon: Memorabilia
 
@@ -97,6 +98,8 @@ Davenant: In Remembrance of Master William Shakespeare
 Eliot: Felix Holt, the Radical
 Euripides: complete plays
 Hillyer: poems from The Gates of the Compass
+- A Failure
+- Platitude
 Hughes: poems published in 1930
 - Dear Lovely Death
 - Spring for Lovers
@@ -131,6 +134,7 @@ Hughes: poems published in 1932
 Huxley: Brave New World
 Ibsen: When We Dead Awaken
 London: The Iron Heel
+Manzoni: The Betrothed
 Thucydides: History of the Pelopennesian War
 
 2029
@@ -175,6 +179,13 @@ Frost: poems from A Further Range and From Snow to Snow
 Hughes: poems published in 1936
 - Let America Be America Again
 Hugo: Les Miserables
+Wurdemann: poems from Splendour in the Grass
+- Caryatid
+- Eclipse
+- Flung Disc
+- Minor Planet
+- Quiet
+- The River
 
 2033
 
@@ -196,6 +207,7 @@ Zaturenska: poems from Cold Morning Sky
 Hughes: poems published in 1938
 - In Time of Silver Rain
 Hugo: The Man Who Laughs
+Wurdemann: Testament of Love
 
 2035
 
