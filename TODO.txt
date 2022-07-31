@@ -4,7 +4,7 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2022-07-22
+Last Updated: 2022-07-30
 
 2022
 
@@ -14,7 +14,6 @@ Defoe: Robinson Crusoe
 Epictetus: Discourses
 Galileo: The Starry Messenger
 Hesiod: Works and Days
-Hillyer: poems from The Halt in the Garden
 Mencius: The Mencius
 Mill: Autobiography
 Montaigne: Apology for Raymond Sebond
@@ -146,6 +145,16 @@ Robinson: Talifer
 Rostand: L'Aiglon
 Stevenson: A Child's Garden of Verses
 Teasdale: poems from Strange Victory
+- Advice to a Girl
+- Age
+- All That Was Mortal
+- In Memory of Vachel Lindsey
+- Secret Treasure
+- Strange Victory
+- To a Child Watching the Gulls
+- To M.
+- Truce
+- Wisdom
 Tocqueville: Democracy in America
 Twain: Adventures of Tom Sawyer
 
