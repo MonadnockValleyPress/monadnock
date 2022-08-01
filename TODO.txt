@@ -4,25 +4,23 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2022-07-30
+Last Updated: 2022-07-31
 
 2022
 
+Aristotle: Nicomachean Ethics
 Addison: Cato
-Aristotle: Politics
 Defoe: Robinson Crusoe
 Epictetus: Discourses
 Galileo: The Starry Messenger
-Hesiod: Works and Days
 Mencius: The Mencius
 Mill: Autobiography
 Montaigne: Apology for Raymond Sebond
 Spinoza: Ethics
-Stevenson: Treasure Island
 
 2023
 
-Aristotle: Nicomachean Ethics
+Aristotle: Politics
 Austen: Sense and Sensibility
 Cather: The Song of the Lark
 Durant: The Story of Philosophy
@@ -34,6 +32,7 @@ Ibsen: The Lady from the Sea
 Shakespeare: complete comedies
 Sidney: Discourses Concerning Government
 Sophocles: Ajax
+Stevenson: Treasure Island
 Sullivan: The Autobiography of an Idea
 Twain: Autobiography
 Woolf: To the Lighthouse
