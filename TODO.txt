@@ -4,7 +4,7 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2022-07-31
+Last Updated: 2022-08-04
 
 2022
 
@@ -14,7 +14,6 @@ Defoe: Robinson Crusoe
 Epictetus: Discourses
 Galileo: The Starry Messenger
 Mencius: The Mencius
-Mill: Autobiography
 Montaigne: Apology for Raymond Sebond
 Spinoza: Ethics
 
@@ -139,6 +138,10 @@ Thucydides: History of the Pelopennesian War
 2029
 
 Alcott: Little Women
+Eliot: selected poems
+- Brother and Sister
+- The Choir Invisible
+- Self and Life
 Mill: review of Tocqueville
 Montesquieu: The Spirit of the Laws
 Robinson: Talifer
