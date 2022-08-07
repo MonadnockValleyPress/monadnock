@@ -4,16 +4,14 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2022-08-04
+Last Updated: 2022-08-06
 
 2022
 
-Aristotle: Nicomachean Ethics
 Addison: Cato
 Defoe: Robinson Crusoe
 Epictetus: Discourses
 Galileo: The Starry Messenger
-Mencius: The Mencius
 Montaigne: Apology for Raymond Sebond
 Spinoza: Ethics
 
@@ -28,6 +26,7 @@ Epicurus: fragments and testimonia
 Hughes: poems published in 1927
 - A Letter to Anne
 Ibsen: The Lady from the Sea
+Mencius: The Mencius
 Shakespeare: complete comedies
 Sidney: Discourses Concerning Government
 Sophocles: Ajax
