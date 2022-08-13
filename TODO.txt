@@ -4,11 +4,12 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2022-08-06
+Last Updated: 2022-08-12
 
 2022
 
 Addison: Cato
+Conrad: Heart of Darkness
 Defoe: Robinson Crusoe
 Epictetus: Discourses
 Galileo: The Starry Messenger
@@ -20,6 +21,7 @@ Spinoza: Ethics
 Aristotle: Politics
 Austen: Sense and Sensibility
 Cather: The Song of the Lark
+Conrad: Victory
 Durant: The Story of Philosophy
 Eliot: The Mill on the Floss
 Epicurus: fragments and testimonia
@@ -39,6 +41,7 @@ Xenophon: Memorabilia
 2024
 
 Aeschylus: complete plays
+Aristotle: Rhetoric
 Austen: Pride and Prejudice
 Cather: My Ántonia
 Darwin: Voyage of the Beagle
@@ -223,6 +226,10 @@ Wurdemann: Testament of Love
 2035
 
 Hugo: Ninety-Three
+
+2036
+
+Koestler: Darkness at Noon
 
 2039
 
