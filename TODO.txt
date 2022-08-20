@@ -4,16 +4,18 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2022-08-15
+Last Updated: 2022-08-20
 
 2022
 
 Addison: Cato
-Conrad: Heart of Darkness
 Defoe: Robinson Crusoe
 Epictetus: Discourses
 Galileo: The Starry Messenger
+Gibran: The Madman
+Gibran: Sand and Foam
 Montaigne: Apology for Raymond Sebond
+Pater: The Renaissance
 Spinoza: Ethics
 
 2023
@@ -29,6 +31,7 @@ Hughes: poems published in 1927
 - A Letter to Anne
 Ibsen: The Lady from the Sea
 Mencius: The Mencius
+Pater: Marius the Epicurean
 Shakespeare: complete comedies
 Sidney: Discourses Concerning Government
 Sophocles: Ajax
