@@ -13,7 +13,6 @@ Defoe: Robinson Crusoe
 Epictetus: Discourses
 Galileo: The Starry Messenger
 Gibran: The Madman
-Gibran: Sand and Foam
 Montaigne: Apology for Raymond Sebond
 Pater: The Renaissance
 Spinoza: Ethics
@@ -27,6 +26,7 @@ Conrad: Victory
 Durant: The Story of Philosophy
 Eliot: The Mill on the Floss
 Epicurus: fragments and testimonia
+Gibran: Sand and Foam
 Hughes: poems published in 1927
 - A Letter to Anne
 Ibsen: The Lady from the Sea
