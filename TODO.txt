@@ -4,7 +4,7 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2022-08-20
+Last Updated: 2022-08-22
 
 2022
 
@@ -13,6 +13,7 @@ Defoe: Robinson Crusoe
 Epictetus: Discourses
 Galileo: The Starry Messenger
 Gibran: The Madman
+Gibran: The Forerunner
 Montaigne: Apology for Raymond Sebond
 Pater: The Renaissance
 Spinoza: Ethics
@@ -21,14 +22,17 @@ Spinoza: Ethics
 
 Aristotle: Politics
 Austen: Sense and Sensibility
+Benét: "American Names"
 Cather: The Song of the Lark
 Conrad: Victory
 Durant: The Story of Philosophy
 Eliot: The Mill on the Floss
 Epicurus: fragments and testimonia
 Gibran: Sand and Foam
+Hazlitt: selected essays
 Hughes: poems published in 1927
 - A Letter to Anne
+Hume: selected essays
 Ibsen: The Lady from the Sea
 Mencius: The Mencius
 Pater: Marius the Epicurean
@@ -50,6 +54,7 @@ Cather: My Ántonia
 Darwin: Voyage of the Beagle
 Eliot: Silas Marner
 Frost: poems from West-Running Brook
+Gibran: Jesus, Son of Man
 Hillyer: poems from The Seventh Hill
 - Happy art thou, my phantom saint
 - The stars came, but her Love came never
@@ -79,7 +84,7 @@ Yeats: poems from The Tower
 
 Austen: Mansfield Park
 Behn: The Rover
-Benet: John Brown's Body
+Benét: John Brown's Body
 Eliot: Romola
 Frost: poems from The Lovely Shall Be Choosers
 Galton: Memories of My Life
@@ -88,6 +93,7 @@ Hawthorne: The Scarlet Letter
 Ibsen: The Master Builder
 Jefferson: letter to Henry Lee
 London: The Call of the Wild
+Mandeville: The Fable of the Bees
 Shakespeare: complete histories
 Sophocles: Philoctetes
 Swift: Gulliver's Travels
@@ -118,6 +124,7 @@ Twain: Is Shakespeare Dead?
 
 Austen: Persuasion
 Eliot: Middlemarch
+Gibran: The Earth Gods
 Herodotus: Histories
 Hughes: poems published in 1931
 - Helen Keller
@@ -174,9 +181,9 @@ Millay: poems from Wine from These Grapes
 Rostand: Chanticleer
 Twain: Adventures of Huckleberry Finn
 Wurdemann: poems from Bright Ambush
-- Love’s Instant
-- Who Thinks Love is a Prize to Put Away (For Eros II)
-- Do You Remember (For Eros X)
+- Love's Instant
+- Who Thinks Love is a Prize to Put Away
+- Do You Remember
 - Microcosmos
 - Keen Cold
 - Easter at Whitby
@@ -191,7 +198,7 @@ Woolf: essays from the Common Reader, second series
 
 2032
 
-Benet: The Devil and Daniel Webster
+Benét: The Devil and Daniel Webster
 Frost: poems from A Further Range and From Snow to Snow
 Hughes: poems published in 1936
 - Let America Be America Again
@@ -206,7 +213,7 @@ Wurdemann: poems from Splendour in the Grass
 
 2033
 
-Benet: By the Waters of Babylon
+Benét: By the Waters of Babylon
 Fletcher: "Ascent of Monadnock"
 Hughes: poems published in 1937
 - Note in Music
