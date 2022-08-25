@@ -4,7 +4,7 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2022-08-22
+Last Updated: 2022-08-25
 
 2022
 
@@ -34,6 +34,7 @@ Hughes: poems published in 1927
 - A Letter to Anne
 Hume: selected essays
 Ibsen: The Lady from the Sea
+Lubbock: The Pleasures of Life
 Mencius: The Mencius
 Pater: Marius the Epicurean
 Shakespeare: complete comedies
