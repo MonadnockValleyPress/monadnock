@@ -4,7 +4,7 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2022-08-25
+Last Updated: 2022-08-27
 
 2022
 
@@ -14,6 +14,7 @@ Epictetus: Discourses
 Galileo: The Starry Messenger
 Gibran: The Madman
 Gibran: The Forerunner
+Longfellow: Dante sonnets
 Montaigne: Apology for Raymond Sebond
 Pater: The Renaissance
 Spinoza: Ethics
@@ -30,9 +31,20 @@ Eliot: The Mill on the Floss
 Epicurus: fragments and testimonia
 Gibran: Sand and Foam
 Hazlitt: selected essays
+- On Living to Oneself
+- On Party Spirit
+- On the Feeling of Immortality in Youth
+- On Public Opinion
+- On Personal Identity
 Hughes: poems published in 1927
 - A Letter to Anne
 Hume: selected essays
+- Of the Delicacy of Taste and Passion
+- Of the Liberty of the Press
+- Of the First Principles of Government
+- Of the Origin of Government
+- Of Superstition and Enthusiasm
+- Of the Dignity or Meanness of Human Nature
 Ibsen: The Lady from the Sea
 Lubbock: The Pleasures of Life
 Mencius: The Mencius
@@ -104,6 +116,7 @@ Xenophon: Oeconomicus
 
 Austen: Emma
 Davenant: In Remembrance of Master William Shakespeare
+Dryden: Essay of Dramatick Poesie
 Eliot: Felix Holt, the Radical
 Euripides: complete plays
 Hillyer: poems from The Gates of the Compass
@@ -118,6 +131,8 @@ Ibsen: Little Eyolf
 Jefferson: Notes on the State of Virginia
 London: The Sea-Wolf
 Ortega: The Revolt of the Masses
+Shelley: Defence of Poetry
+Sidney: Apology for Poetry
 Sophocles: Women of Trachis
 Twain: Is Shakespeare Dead?
 
@@ -146,6 +161,7 @@ Huxley: Brave New World
 Ibsen: When We Dead Awaken
 London: The Iron Heel
 Manzoni: The Betrothed
+Meredith: The Ordeal of Richard Feverel
 Thucydides: History of the Pelopennesian War
 
 2029
@@ -155,6 +171,7 @@ Eliot: selected poems
 - Brother and Sister
 - The Choir Invisible
 - Self and Life
+Meredith: The Egoist
 Mill: review of Tocqueville
 Montesquieu: The Spirit of the Laws
 Robinson: Talifer
@@ -178,6 +195,7 @@ Twain: Adventures of Tom Sawyer
 
 Hughes: poems published in 1934
 - Moonlight Night: Carmel
+Meredith: Diana of the Crossways
 Millay: poems from Wine from These Grapes
 Rostand: Chanticleer
 Twain: Adventures of Huckleberry Finn
