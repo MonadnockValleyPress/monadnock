@@ -4,38 +4,42 @@ Previously published texts are catalogued at:
 
 https://monadnock.net/chronology.html
 
-Last Updated: 2022-08-27
+Last Updated: 2022-09-04
 
 2022
 
-Addison: Cato
-Defoe: Robinson Crusoe
-Epictetus: Discourses
-Galileo: The Starry Messenger
-Gibran: The Madman
-Gibran: The Forerunner
-Longfellow: Dante sonnets
+Longfellow: selected poems
 Montaigne: Apology for Raymond Sebond
-Pater: The Renaissance
 Spinoza: Ethics
 
 2023
 
+Addison: Cato
 Aristotle: Politics
 Austen: Sense and Sensibility
 Benét: "American Names"
+Burroughs: essays on Emerson, Thoreau, Whitman
 Cather: The Song of the Lark
 Conrad: Victory
+Defoe: Robinson Crusoe
 Durant: The Story of Philosophy
 Eliot: The Mill on the Floss
-Epicurus: fragments and testimonia
+Epictetus: Discourses
+Galileo: The Starry Messenger
+Gibran: The Madman
+Gibran: The Forerunner
 Gibran: Sand and Foam
 Hazlitt: selected essays
+- On the Feeling of Immortality in Youth
+- On Genius and Common Sense
+- On the Ignorance of the Learned
+- On the Knowledge of Character
 - On Living to Oneself
 - On Party Spirit
-- On the Feeling of Immortality in Youth
-- On Public Opinion
+- On the Past and Future
+- On People with One Idea
 - On Personal Identity
+- On Public Opinion
 Hughes: poems published in 1927
 - A Letter to Anne
 Hume: selected essays
@@ -48,7 +52,7 @@ Hume: selected essays
 Ibsen: The Lady from the Sea
 Lubbock: The Pleasures of Life
 Mencius: The Mencius
-Pater: Marius the Epicurean
+Pater: The Renaissance
 Shakespeare: complete comedies
 Sidney: Discourses Concerning Government
 Sophocles: Ajax
@@ -66,6 +70,7 @@ Austen: Pride and Prejudice
 Cather: My Ántonia
 Darwin: Voyage of the Beagle
 Eliot: Silas Marner
+Epicurus: fragments and testimonia
 Frost: poems from West-Running Brook
 Gibran: Jesus, Son of Man
 Hillyer: poems from The Seventh Hill
@@ -83,8 +88,10 @@ Nock: essays from On Doing the Right Thing
 - The Decline of Conversation
 - On Making Low People Interesting
 - A Cultural Forecast
+Pater: Marius the Epicurean
 Santayana: Skepticism and Animal Faith
 Shakespeare: complete tragedies
+Shaw: Man and Superman
 Sophocles: Electra
 Tzu-ssu: Practicing the Mean
 Xenophon: Symposium
@@ -108,6 +115,7 @@ Jefferson: letter to Henry Lee
 London: The Call of the Wild
 Mandeville: The Fable of the Bees
 Shakespeare: complete histories
+Shaw: Major Barbara
 Sophocles: Philoctetes
 Swift: Gulliver's Travels
 Xenophon: Oeconomicus
@@ -131,6 +139,7 @@ Ibsen: Little Eyolf
 Jefferson: Notes on the State of Virginia
 London: The Sea-Wolf
 Ortega: The Revolt of the Masses
+Shaw: Pygmalion
 Shelley: Defence of Poetry
 Sidney: Apology for Poetry
 Sophocles: Women of Trachis
@@ -149,11 +158,13 @@ Hughes: poems published in 1931
 Ibsen: John Gabriel Borkman
 London: Martin Eden
 Millay: Poems from Fatal Interview
+Shaw: Saint Joan
 Stowe: Uncle Tom's Cabin
 Wurdemann: "As Liquid Snow"
 
 2028
 
+Butler: Erehwon
 Eliot: Daniel Deronda
 Hughes: poems published in 1932
 - Pennsylvania Station
@@ -167,6 +178,7 @@ Thucydides: History of the Pelopennesian War
 2029
 
 Alcott: Little Women
+Butler: The Way of All Flesh
 Eliot: selected poems
 - Brother and Sister
 - The Choir Invisible
@@ -233,6 +245,7 @@ Wurdemann: poems from Splendour in the Grass
 2033
 
 Benét: By the Waters of Babylon
+Carlyle: Sartor Resartus
 Fletcher: "Ascent of Monadnock"
 Hughes: poems published in 1937
 - Note in Music
@@ -247,6 +260,7 @@ Zaturenska: poems from Cold Morning Sky
 
 2034
 
+Dreiser: Sister Carrie
 Hughes: poems published in 1938
 - In Time of Silver Rain
 Hugo: The Man Who Laughs
