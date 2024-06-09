@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en-US">
+  <title>Monadnock Valley Press</title>
+  <tagline>Free books in the public domain, optimized for reading on phone, tablet, or computer.</tagline>
+  <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
+  <id>https://monadnock.net/</id>
+  <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
+  <modified>2024-06-05</modified>
+  <entry>
+    <title>Thomas Jefferson: Four Letters to Peter Carr</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/jefferson/"/>
+    <id>tag:monadnock.net,356</id>
+    <issued>2024-06-05</issued>
+    <modified>2024-06-05</modified>
+  </entry>
+  <entry>
+    <title>William Shakespeare: Much Ado About Nothing</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/shakespeare/muchado.html"/>
+    <id>tag:monadnock.net,355</id>
+    <issued>2024-06-04</issued>
+    <modified>2024-06-04</modified>
+  </entry>
+  <entry>
+    <title>Thomas Jefferson: First Inaugural Address</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/jefferson/first-inaugural.html"/>
+    <id>tag:monadnock.net,354</id>
+    <issued>2024-06-04</issued>
+    <modified>2024-06-04</modified>
+  </entry>
+  <entry>
+    <title>Benjamin Franklin: On True Happiness</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/franklin/happiness.html"/>
+    <id>tag:monadnock.net,353</id>
+    <issued>2024-06-03</issued>
+    <modified>2024-06-03</modified>
+  </entry>
+  <entry>
+    <title>William Shakespeare: Winter's Tale</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/shakespeare/winterstale.html"/>
+    <id>tag:monadnock.net,352</id>
+    <issued>2024-06-02</issued>
+    <modified>2024-06-02</modified>
+  </entry>
+  <entry>
+    <title>William Shakespeare: Pericles, Prince of Tyre</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/shakespeare/pericles.html"/>
+    <id>tag:monadnock.net,351</id>
+    <issued>2024-06-01</issued>
+    <modified>2024-06-01</modified>
+  </entry>
+</feed>
