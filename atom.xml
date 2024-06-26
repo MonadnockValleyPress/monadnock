@@ -7,6 +7,13 @@
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
   <modified>2024-06-24</modified>
   <entry>
+    <title>John Milton: Of Education</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/milton/education.html"/>
+    <id>tag:monadnock.net,361</id>
+    <issued>2024-06-26</issued>
+    <modified>2024-06-26</modified>
+  </entry>
+  <entry>
     <title>William Shakespeare: Cymbeline</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/shakespeare/comedyoferrors.html"/>
     <id>tag:monadnock.net,360</id>
@@ -68,12 +75,5 @@
     <id>tag:monadnock.net,352</id>
     <issued>2024-06-02</issued>
     <modified>2024-06-02</modified>
-  </entry>
-  <entry>
-    <title>William Shakespeare: Pericles, Prince of Tyre</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/shakespeare/pericles.html"/>
-    <id>tag:monadnock.net,351</id>
-    <issued>2024-06-01</issued>
-    <modified>2024-06-01</modified>
   </entry>
 </feed>
