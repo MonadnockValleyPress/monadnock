@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-06-24</modified>
+  <modified>2024-06-29</modified>
+  <entry>
+    <title>John Adams: Thoughts on Government</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/adams/thoughts.html"/>
+    <id>tag:monadnock.net,362</id>
+    <issued>2024-06-29</issued>
+    <modified>2024-06-29</modified>
+  </entry>
   <entry>
     <title>John Milton: Of Education</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/milton/education.html"/>
@@ -68,12 +75,5 @@
     <id>tag:monadnock.net,353</id>
     <issued>2024-06-03</issued>
     <modified>2024-06-03</modified>
-  </entry>
-  <entry>
-    <title>William Shakespeare: Winter's Tale</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/shakespeare/winterstale.html"/>
-    <id>tag:monadnock.net,352</id>
-    <issued>2024-06-02</issued>
-    <modified>2024-06-02</modified>
   </entry>
 </feed>
