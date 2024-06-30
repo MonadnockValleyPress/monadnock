@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-06-29</modified>
+  <modified>2024-06-30</modified>
+  <entry>
+    <title>William Shakespeare: Othello</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/shakespeare/othello.html"/>
+    <id>tag:monadnock.net,364</id>
+    <issued>2024-06-30</issued>
+    <modified>2024-06-30</modified>
+  </entry>
   <entry>
     <title>Ben Jonson: Inviting a Friend to Supper and To Penshurst</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/jonson/"/>
@@ -28,7 +35,7 @@
     <modified>2024-06-26</modified>
   </entry>
   <entry>
-    <title>William Shakespeare: Cymbeline</title>
+    <title>William Shakespeare: The Comedy of Errors</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/shakespeare/comedyoferrors.html"/>
     <id>tag:monadnock.net,360</id>
     <issued>2024-06-24</issued>
@@ -66,13 +73,6 @@
     <title>William Shakespeare: Much Ado About Nothing</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/shakespeare/muchado.html"/>
     <id>tag:monadnock.net,355</id>
-    <issued>2024-06-04</issued>
-    <modified>2024-06-04</modified>
-  </entry>
-  <entry>
-    <title>Thomas Jefferson: First Inaugural Address</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/jefferson/first-inaugural.html"/>
-    <id>tag:monadnock.net,354</id>
     <issued>2024-06-04</issued>
     <modified>2024-06-04</modified>
   </entry>
