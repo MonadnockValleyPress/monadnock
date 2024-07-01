@@ -7,6 +7,13 @@
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
   <modified>2024-06-30</modified>
   <entry>
+    <title>John Milton: On Shakespear</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/milton/shakespear.html"/>
+    <id>tag:monadnock.net,365</id>
+    <issued>2024-06-30</issued>
+    <modified>2024-06-30</modified>
+  </entry>
+  <entry>
     <title>William Shakespeare: Othello</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/shakespeare/othello.html"/>
     <id>tag:monadnock.net,364</id>
@@ -68,12 +75,5 @@
     <id>tag:monadnock.net,356</id>
     <issued>2024-06-05</issued>
     <modified>2024-06-05</modified>
-  </entry>
-  <entry>
-    <title>William Shakespeare: Much Ado About Nothing</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/shakespeare/muchado.html"/>
-    <id>tag:monadnock.net,355</id>
-    <issued>2024-06-04</issued>
-    <modified>2024-06-04</modified>
   </entry>
 </feed>
