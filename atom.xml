@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-07-03</modified>
+  <modified>2024-07-05</modified>
+  <entry>
+    <title>George Crabbe: The Library</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/crabbe/library.html"/>
+    <id>tag:monadnock.net,369</id>
+    <issued>2024-07-05</issued>
+    <modified>2024-07-05</modified>
+  </entry>
   <entry>
     <title>William Shakespeare: Taming of the Shrew</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/shakespeare/tamingoftheshrew.html"/>
@@ -68,12 +75,5 @@
     <id>tag:monadnock.net,360</id>
     <issued>2024-06-24</issued>
     <modified>2024-06-24</modified>
-  </entry>
-  <entry>
-    <title>William Shakespeare: Cymbeline</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/shakespeare/cymbeline.html"/>
-    <id>tag:monadnock.net,359</id>
-    <issued>2024-06-23</issued>
-    <modified>2024-06-23</modified>
   </entry>
 </feed>
