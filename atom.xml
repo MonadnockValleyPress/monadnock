@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-07-05</modified>
+  <modified>2024-07-07</modified>
+  <entry>
+    <title>William Shakespeare: Macbeth</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/shakespeare/macbeth.html"/>
+    <id>tag:monadnock.net,370</id>
+    <issued>2024-07-07</issued>
+    <modified>2024-07-07</modified>
+  </entry>
   <entry>
     <title>George Crabbe: The Library</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/crabbe/library.html"/>
@@ -68,12 +75,5 @@
     <id>tag:monadnock.net,361</id>
     <issued>2024-06-26</issued>
     <modified>2024-06-26</modified>
-  </entry>
-  <entry>
-    <title>William Shakespeare: The Comedy of Errors</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/shakespeare/comedyoferrors.html"/>
-    <id>tag:monadnock.net,360</id>
-    <issued>2024-06-24</issued>
-    <modified>2024-06-24</modified>
   </entry>
 </feed>
