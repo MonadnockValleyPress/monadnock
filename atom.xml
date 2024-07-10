@@ -5,7 +5,21 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-07-08</modified>
+  <modified>2024-07-10</modified>
+  <entry>
+    <title>John Milton: Il Penseroso</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/milton/penseroso.html"/>
+    <id>tag:monadnock.net,374</id>
+    <issued>2024-07-10</issued>
+    <modified>2024-07-10</modified>
+  </entry>
+  <entry>
+    <title>John Milton: L'Allegro</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/milton/allegro.html"/>
+    <id>tag:monadnock.net,373</id>
+    <issued>2024-07-10</issued>
+    <modified>2024-07-10</modified>
+  </entry>
   <entry>
     <title>William Shakespeare: Hamlet</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/shakespeare/hamlet.html"/>
@@ -61,19 +75,5 @@
     <id>tag:monadnock.net,365</id>
     <issued>2024-06-30</issued>
     <modified>2024-06-30</modified>
-  </entry>
-  <entry>
-    <title>William Shakespeare: Othello</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/shakespeare/othello.html"/>
-    <id>tag:monadnock.net,364</id>
-    <issued>2024-06-30</issued>
-    <modified>2024-06-30</modified>
-  </entry>
-  <entry>
-    <title>Ben Jonson: Inviting a Friend to Supper and To Penshurst</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/jonson/"/>
-    <id>tag:monadnock.net,363</id>
-    <issued>2024-06-29</issued>
-    <modified>2024-06-29</modified>
   </entry>
 </feed>
