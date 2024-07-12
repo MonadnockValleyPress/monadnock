@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-07-10</modified>
+  <modified>2024-07-11</modified>
+  <entry>
+    <title>Daniel Defoe: Robinson Crusoe</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/defoe/crusoe.html"/>
+    <id>tag:monadnock.net,375</id>
+    <issued>2024-07-11</issued>
+    <modified>2024-07-11</modified>
+  </entry>
   <entry>
     <title>John Milton: Il Penseroso</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/milton/penseroso.html"/>
@@ -68,12 +75,5 @@
     <id>tag:monadnock.net,366</id>
     <issued>2024-07-01</issued>
     <modified>2024-07-01</modified>
-  </entry>
-  <entry>
-    <title>John Milton: On Shakespear</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/milton/shakespear.html"/>
-    <id>tag:monadnock.net,365</id>
-    <issued>2024-06-30</issued>
-    <modified>2024-06-30</modified>
   </entry>
 </feed>
