@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-07-19</modified>
+  <modified>2024-07-20</modified>
+  <entry>
+    <title>Frederick Jackson Turner: The Significance of the Frontier in American History</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/turner/frontier.html"/>
+    <id>tag:monadnock.net,377</id>
+    <issued>2024-07-20</issued>
+    <modified>2024-07-20</modified>
+  </entry>
   <entry>
     <title>Benjamin Franklin: Address to the Federal Convention</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/franklin/federal.html"/>
@@ -68,12 +75,5 @@
     <id>tag:monadnock.net,368</id>
     <issued>2024-07-03</issued>
     <modified>2024-07-07</modified>
-  </entry>
-  <entry>
-    <title>William Shakespeare: The Merry Wives of Windsor</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/shakespeare/merrywives.html"/>
-    <id>tag:monadnock.net,367</id>
-    <issued>2024-07-02</issued>
-    <modified>2024-07-03</modified>
   </entry>
 </feed>
