@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-07-11</modified>
+  <modified>2024-07-19</modified>
+  <entry>
+    <title>Benjamin Franklin: Address to the Federal Convention</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/franklin/federal.html"/>
+    <id>tag:monadnock.net,376</id>
+    <issued>2024-07-19</issued>
+    <modified>2024-07-19</modified>
+  </entry>
   <entry>
     <title>Daniel Defoe: Robinson Crusoe</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/defoe/crusoe.html"/>
@@ -68,12 +75,5 @@
     <id>tag:monadnock.net,367</id>
     <issued>2024-07-02</issued>
     <modified>2024-07-03</modified>
-  </entry>
-  <entry>
-    <title>William Shakespeare: Love's Labours Lost</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/shakespeare/loveslabourslost.html"/>
-    <id>tag:monadnock.net,366</id>
-    <issued>2024-07-01</issued>
-    <modified>2024-07-01</modified>
   </entry>
 </feed>
