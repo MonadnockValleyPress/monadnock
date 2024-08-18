@@ -5,10 +5,16 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-07-20</modified>
+  <modified>2024-08-17</modified>
   <entry>
-    <title>Louis Sullivan: The Tall Office Building Artistically Considered
-    </title>
+    <title>Matthew Arnold: On Translating Homer</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/arnold/homer.html"/>
+    <id>tag:monadnock.net,379</id>
+    <issued>2024-08-17</issued>
+    <modified>2024-08-17</modified>
+  </entry>
+  <entry>
+    <title>Louis Sullivan: The Tall Office Building Artistically Considered</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/sullivan/building.html"/>
     <id>tag:monadnock.net,378</id>
     <issued>2024-07-20</issued>
@@ -68,13 +74,6 @@
     <link type="text/html" rel="alternate" href="https://monadnock.net/shakespeare/macbeth.html"/>
     <id>tag:monadnock.net,370</id>
     <issued>2024-07-07</issued>
-    <modified>2024-07-07</modified>
-  </entry>
-  <entry>
-    <title>George Crabbe: The Library</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/crabbe/library.html"/>
-    <id>tag:monadnock.net,369</id>
-    <issued>2024-07-05</issued>
     <modified>2024-07-07</modified>
   </entry>
 </feed>
