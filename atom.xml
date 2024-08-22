@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-08-17</modified>
+  <modified>2024-08-22</modified>
+  <entry>
+    <title>Apollonius of Rhodes: Argonautica</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/apollonius/argonautica.html"/>
+    <id>tag:monadnock.net,380</id>
+    <issued>2024-08-22</issued>
+    <modified>2024-08-22</modified>
+  </entry>
   <entry>
     <title>Matthew Arnold: On Translating Homer</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/arnold/homer.html"/>
@@ -68,12 +75,5 @@
     <id>tag:monadnock.net,371</id>
     <issued>2024-07-08</issued>
     <modified>2024-07-08</modified>
-  </entry>
-  <entry>
-    <title>William Shakespeare: Macbeth</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/shakespeare/macbeth.html"/>
-    <id>tag:monadnock.net,370</id>
-    <issued>2024-07-07</issued>
-    <modified>2024-07-07</modified>
   </entry>
 </feed>
