@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-08-22</modified>
+  <modified>2024-09-15</modified>
+  <entry>
+    <title>John Adams: Letter to Hezekiah Niles</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/adams/niles.html"/>
+    <id>tag:monadnock.net,381</id>
+    <issued>2024-09-15</issued>
+    <modified>2024-09-15</modified>
+  </entry>
   <entry>
     <title>Apollonius of Rhodes: Argonautica</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/apollonius/argonautica.html"/>
@@ -66,13 +73,6 @@
     <title>William Shakespeare: Hamlet</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/shakespeare/hamlet.html"/>
     <id>tag:monadnock.net,372</id>
-    <issued>2024-07-08</issued>
-    <modified>2024-07-08</modified>
-  </entry>
-  <entry>
-    <title>William Shakespeare: King Lear</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/shakespeare/lear.html"/>
-    <id>tag:monadnock.net,371</id>
     <issued>2024-07-08</issued>
     <modified>2024-07-08</modified>
   </entry>
