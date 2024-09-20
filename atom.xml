@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-09-15</modified>
+  <modified>2024-09-19</modified>
+  <entry>
+    <title>Lord Byron: On This Day I Complete My Thirty-Sixth Year</title> 
+    <link type="text/html" rel="alternate" href="https://monadnock.net/byron/thirty-sixth.html"/>
+    <id>tag:monadnock.net,382</id>
+    <issued>2024-09-19</issued>
+    <modified>2024-09-19</modified>
+  </entry>
   <entry>
     <title>John Adams: Letter to Hezekiah Niles</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/adams/niles.html"/>
@@ -68,12 +75,5 @@
     <id>tag:monadnock.net,373</id>
     <issued>2024-07-10</issued>
     <modified>2024-07-10</modified>
-  </entry>
-  <entry>
-    <title>William Shakespeare: Hamlet</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/shakespeare/hamlet.html"/>
-    <id>tag:monadnock.net,372</id>
-    <issued>2024-07-08</issued>
-    <modified>2024-07-08</modified>
   </entry>
 </feed>
