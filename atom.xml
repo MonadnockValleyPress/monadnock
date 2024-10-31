@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-09-19</modified>
+  <modified>2024-10-31</modified>
+  <entry>
+    <title>John Keats: Hyperion</title> 
+    <link type="text/html" rel="alternate" href="https://monadnock.net/keats/hyperion-1.html"/>
+    <id>tag:monadnock.net,383</id>
+    <issued>2024-10-31</issued>
+    <modified>2024-10-31</modified>
+  </entry>
   <entry>
     <title>Lord Byron: On This Day I Complete My Thirty-Sixth Year</title> 
     <link type="text/html" rel="alternate" href="https://monadnock.net/byron/thirty-sixth.html"/>
@@ -66,13 +73,6 @@
     <title>John Milton: Il Penseroso</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/milton/penseroso.html"/>
     <id>tag:monadnock.net,374</id>
-    <issued>2024-07-10</issued>
-    <modified>2024-07-10</modified>
-  </entry>
-  <entry>
-    <title>John Milton: L'Allegro</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/milton/allegro.html"/>
-    <id>tag:monadnock.net,373</id>
     <issued>2024-07-10</issued>
     <modified>2024-07-10</modified>
   </entry>
