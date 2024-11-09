@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-10-31</modified>
+  <modified>2024-11-08</modified>
+  <entry>
+    <title>John Keats: The Fall of Hyperion</title> 
+    <link type="text/html" rel="alternate" href="https://monadnock.net/keats/fall.html"/>
+    <id>tag:monadnock.net,384</id>
+    <issued>2024-11-08</issued>
+    <modified>2024-11-08</modified>
+  </entry>
   <entry>
     <title>John Keats: Hyperion</title> 
     <link type="text/html" rel="alternate" href="https://monadnock.net/keats/hyperion-1.html"/>
@@ -68,12 +75,5 @@
     <id>tag:monadnock.net,375</id>
     <issued>2024-07-11</issued>
     <modified>2024-07-11</modified>
-  </entry>
-  <entry>
-    <title>John Milton: Il Penseroso</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/milton/penseroso.html"/>
-    <id>tag:monadnock.net,374</id>
-    <issued>2024-07-10</issued>
-    <modified>2024-07-10</modified>
   </entry>
 </feed>
