@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-11-08</modified>
+  <modified>2024-11-09</modified>
+  <entry>
+    <title>John Keats: Sonnet to Byron</title> 
+    <link type="text/html" rel="alternate" href="https://monadnock.net/keats/byron.html"/>
+    <id>tag:monadnock.net,385</id>
+    <issued>2024-11-09</issued>
+    <modified>2024-11-09</modified>
+  </entry>
   <entry>
     <title>John Keats: The Fall of Hyperion</title> 
     <link type="text/html" rel="alternate" href="https://monadnock.net/keats/fall.html"/>
@@ -68,12 +75,5 @@
     <id>tag:monadnock.net,376</id>
     <issued>2024-07-19</issued>
     <modified>2024-07-19</modified>
-  </entry>
-  <entry>
-    <title>Daniel Defoe: Robinson Crusoe</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/defoe/crusoe.html"/>
-    <id>tag:monadnock.net,375</id>
-    <issued>2024-07-11</issued>
-    <modified>2024-07-11</modified>
   </entry>
 </feed>
