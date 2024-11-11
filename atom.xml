@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-11-09</modified>
+  <modified>2024-11-10</modified>
+  <entry>
+    <title>Henry Wadsworth Longfellow: The Song of Hiawatha</title> 
+    <link type="text/html" rel="alternate" href="https://monadnock.net/longfellow/hiawatha.html"/>
+    <id>tag:monadnock.net,386</id>
+    <issued>2024-11-10</issued>
+    <modified>2024-11-10</modified>
+  </entry>
   <entry>
     <title>John Keats: Sonnet to Byron</title> 
     <link type="text/html" rel="alternate" href="https://monadnock.net/keats/byron.html"/>
@@ -68,12 +75,5 @@
     <id>tag:monadnock.net,377</id>
     <issued>2024-07-20</issued>
     <modified>2024-07-20</modified>
-  </entry>
-  <entry>
-    <title>Benjamin Franklin: Address to the Federal Convention</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/franklin/federal.html"/>
-    <id>tag:monadnock.net,376</id>
-    <issued>2024-07-19</issued>
-    <modified>2024-07-19</modified>
   </entry>
 </feed>
