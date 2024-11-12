@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-11-10</modified>
+  <modified>2024-11-11</modified>
+  <entry>
+    <title>Hesiod: Theogony</title> 
+    <link type="text/html" rel="alternate" href="https://monadnock.net/hesiod/theogony.html"/>
+    <id>tag:monadnock.net,387</id>
+    <issued>2024-11-11</issued>
+    <modified>2024-11-11</modified>
+  </entry>
   <entry>
     <title>Henry Wadsworth Longfellow: The Song of Hiawatha</title> 
     <link type="text/html" rel="alternate" href="https://monadnock.net/longfellow/hiawatha.html"/>
@@ -66,13 +73,6 @@
     <title>Louis Sullivan: The Tall Office Building Artistically Considered</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/sullivan/building.html"/>
     <id>tag:monadnock.net,378</id>
-    <issued>2024-07-20</issued>
-    <modified>2024-07-20</modified>
-  </entry>
-  <entry>
-    <title>Frederick Jackson Turner: The Significance of the Frontier in American History</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/turner/frontier.html"/>
-    <id>tag:monadnock.net,377</id>
     <issued>2024-07-20</issued>
     <modified>2024-07-20</modified>
   </entry>
