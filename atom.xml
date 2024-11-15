@@ -5,9 +5,16 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-11-13</modified>
+  <modified>2024-11-14</modified>
   <entry>
-    <title>Milton: Lycidas</title> 
+    <title>Andrew Marvell: Bermudas</title> 
+    <link type="text/html" rel="alternate" href="https://monadnock.net/marvell/bermudas.html"/>
+    <id>tag:monadnock.net,389</id>
+    <issued>2024-11-14</issued>
+    <modified>2024-11-14</modified>
+  </entry>
+  <entry>
+    <title>John Milton: Lycidas</title> 
     <link type="text/html" rel="alternate" href="https://monadnock.net/milton/lycidas.html"/>
     <id>tag:monadnock.net,388</id>
     <issued>2024-11-13</issued>
