@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-11-16</modified>
+  <modified>2024-11-17</modified>
+  <entry>
+    <title>Robert Bridges: Selected Poems</title> 
+    <link type="text/html" rel="alternate" href="https://monadnock.net/bridges/"/>
+    <id>tag:monadnock.net,391</id>
+    <issued>2024-11-17</issued>
+    <modified>2024-11-17</modified>
+  </entry>
   <entry>
     <title>Andrew Marvell: The Gallery</title> 
     <link type="text/html" rel="alternate" href="https://monadnock.net/marvell/gallery.html"/>
@@ -68,12 +75,5 @@
     <id>tag:monadnock.net,382</id>
     <issued>2024-09-19</issued>
     <modified>2024-09-19</modified>
-  </entry>
-  <entry>
-    <title>John Adams: Letter to Hezekiah Niles</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/adams/niles.html"/>
-    <id>tag:monadnock.net,381</id>
-    <issued>2024-09-15</issued>
-    <modified>2024-09-15</modified>
   </entry>
 </feed>
