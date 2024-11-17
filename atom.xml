@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-11-14</modified>
+  <modified>2024-11-16</modified>
+  <entry>
+    <title>Andrew Marvell: The Gallery</title> 
+    <link type="text/html" rel="alternate" href="https://monadnock.net/marvell/gallery.html"/>
+    <id>tag:monadnock.net,390</id>
+    <issued>2024-11-16</issued>
+    <modified>2024-11-16</modified>
+  </entry>
   <entry>
     <title>Andrew Marvell: Bermudas</title> 
     <link type="text/html" rel="alternate" href="https://monadnock.net/marvell/bermudas.html"/>
@@ -68,19 +75,5 @@
     <id>tag:monadnock.net,381</id>
     <issued>2024-09-15</issued>
     <modified>2024-09-15</modified>
-  </entry>
-  <entry>
-    <title>Apollonius of Rhodes: Argonautica</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/apollonius/argonautica.html"/>
-    <id>tag:monadnock.net,380</id>
-    <issued>2024-08-22</issued>
-    <modified>2024-08-22</modified>
-  </entry>
-  <entry>
-    <title>Matthew Arnold: On Translating Homer</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/arnold/homer.html"/>
-    <id>tag:monadnock.net,379</id>
-    <issued>2024-08-17</issued>
-    <modified>2024-08-17</modified>
   </entry>
 </feed>
