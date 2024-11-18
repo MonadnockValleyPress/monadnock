@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-11-17</modified>
+  <modified>2024-11-18</modified>
+  <entry>
+    <title>Andrew Marvell: An Horatian Ode upon Cromwell's Return from Ireland</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/marvell/cromwell.html"/>
+    <id>tag:monadnock.net,392</id>
+    <issued>2024-11-18</issued>
+    <modified>2024-11-18</modified>
+  </entry>
   <entry>
     <title>Robert Bridges: Selected Poems</title> 
     <link type="text/html" rel="alternate" href="https://monadnock.net/bridges/"/>
@@ -68,12 +75,5 @@
     <id>tag:monadnock.net,383</id>
     <issued>2024-10-31</issued>
     <modified>2024-10-31</modified>
-  </entry>
-  <entry>
-    <title>Lord Byron: On This Day I Complete My Thirty-Sixth Year</title> 
-    <link type="text/html" rel="alternate" href="https://monadnock.net/byron/thirty-sixth.html"/>
-    <id>tag:monadnock.net,382</id>
-    <issued>2024-09-19</issued>
-    <modified>2024-09-19</modified>
   </entry>
 </feed>
