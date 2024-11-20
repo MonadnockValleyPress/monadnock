@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-11-18</modified>
+  <modified>2024-11-19</modified>
+  <entry>
+    <title>John Keats: Ode to Apollo</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/keats/apollo.html"/>
+    <id>tag:monadnock.net,393</id>
+    <issued>2024-11-19</issued>
+    <modified>2024-11-19</modified>
+  </entry>
   <entry>
     <title>Andrew Marvell: An Horatian Ode upon Cromwell's Return from Ireland</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/marvell/cromwell.html"/>
@@ -14,66 +21,59 @@
     <modified>2024-11-18</modified>
   </entry>
   <entry>
-    <title>Robert Bridges: Selected Poems</title> 
+    <title>Robert Bridges: Selected Poems</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/bridges/"/>
     <id>tag:monadnock.net,391</id>
     <issued>2024-11-17</issued>
     <modified>2024-11-17</modified>
   </entry>
   <entry>
-    <title>Andrew Marvell: The Gallery</title> 
+    <title>Andrew Marvell: The Gallery</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/marvell/gallery.html"/>
     <id>tag:monadnock.net,390</id>
     <issued>2024-11-16</issued>
     <modified>2024-11-16</modified>
   </entry>
   <entry>
-    <title>Andrew Marvell: Bermudas</title> 
+    <title>Andrew Marvell: Bermudas</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/marvell/bermudas.html"/>
     <id>tag:monadnock.net,389</id>
     <issued>2024-11-14</issued>
     <modified>2024-11-14</modified>
   </entry>
   <entry>
-    <title>John Milton: Lycidas</title> 
+    <title>John Milton: Lycidas</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/milton/lycidas.html"/>
     <id>tag:monadnock.net,388</id>
     <issued>2024-11-13</issued>
     <modified>2024-11-13</modified>
   </entry>
   <entry>
-    <title>Hesiod: Theogony</title> 
+    <title>Hesiod: Theogony</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/hesiod/theogony.html"/>
     <id>tag:monadnock.net,387</id>
     <issued>2024-11-11</issued>
     <modified>2024-11-11</modified>
   </entry>
   <entry>
-    <title>Henry Wadsworth Longfellow: The Song of Hiawatha</title> 
+    <title>Henry Wadsworth Longfellow: The Song of Hiawatha</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/longfellow/hiawatha.html"/>
     <id>tag:monadnock.net,386</id>
     <issued>2024-11-10</issued>
     <modified>2024-11-10</modified>
   </entry>
   <entry>
-    <title>John Keats: Sonnet to Byron</title> 
+    <title>John Keats: Sonnet to Byron</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/keats/byron.html"/>
     <id>tag:monadnock.net,385</id>
     <issued>2024-11-09</issued>
     <modified>2024-11-09</modified>
   </entry>
   <entry>
-    <title>John Keats: The Fall of Hyperion</title> 
+    <title>John Keats: The Fall of Hyperion</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/keats/fall.html"/>
     <id>tag:monadnock.net,384</id>
     <issued>2024-11-08</issued>
     <modified>2024-11-08</modified>
-  </entry>
-  <entry>
-    <title>John Keats: Hyperion</title> 
-    <link type="text/html" rel="alternate" href="https://monadnock.net/keats/hyperion-1.html"/>
-    <id>tag:monadnock.net,383</id>
-    <issued>2024-10-31</issued>
-    <modified>2024-10-31</modified>
   </entry>
 </feed>
