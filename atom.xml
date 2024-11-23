@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-11-22</modified>
+  <modified>2024-11-23</modified>
+  <entry>
+    <title>Percy Bysshe Shelley: Adonais</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/shelley/adonais.html"/>
+    <id>tag:monadnock.net,397</id>
+    <issued>2024-11-23</issued>
+    <modified>2024-11-23</modified>
+  </entry>
   <entry>
     <title>John Keats: Lamia</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/keats/lamia-1.html"/>
@@ -68,12 +75,5 @@
     <id>tag:monadnock.net,388</id>
     <issued>2024-11-13</issued>
     <modified>2024-11-13</modified>
-  </entry>
-  <entry>
-    <title>Hesiod: Theogony</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/hesiod/theogony.html"/>
-    <id>tag:monadnock.net,387</id>
-    <issued>2024-11-11</issued>
-    <modified>2024-11-11</modified>
   </entry>
 </feed>
