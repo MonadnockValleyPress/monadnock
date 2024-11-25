@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-11-23</modified>
+  <modified>2024-11-25</modified>
+  <entry>
+    <title>Charlotte Brontë: Jane Eyre</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/bronte-charlotte/jane-eyre.html"/>
+    <id>tag:monadnock.net,398</id>
+    <issued>2024-11-25</issued>
+    <modified>2024-11-25</modified>
+  </entry>
   <entry>
     <title>Percy Bysshe Shelley: Adonais</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/shelley/adonais.html"/>
@@ -68,12 +75,5 @@
     <id>tag:monadnock.net,389</id>
     <issued>2024-11-14</issued>
     <modified>2024-11-14</modified>
-  </entry>
-  <entry>
-    <title>John Milton: Lycidas</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/milton/lycidas.html"/>
-    <id>tag:monadnock.net,388</id>
-    <issued>2024-11-13</issued>
-    <modified>2024-11-13</modified>
   </entry>
 </feed>
