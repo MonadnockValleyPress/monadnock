@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-12-02</modified>
+  <modified>2024-12-03</modified>
+  <entry>
+    <title>John Dryden: "I Feed a Flame Within"</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/dryden/flame.html"/>
+    <id>tag:monadnock.net,400</id>
+    <issued>2024-12-03</issued>
+    <modified>2024-12-03</modified>
+  </entry>
   <entry>
     <title>John Dryden: The Fair Stranger</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/dryden/stranger.html"/>
@@ -68,12 +75,5 @@
     <id>tag:monadnock.net,391</id>
     <issued>2024-11-17</issued>
     <modified>2024-11-17</modified>
-  </entry>
-  <entry>
-    <title>Andrew Marvell: The Gallery</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/marvell/gallery.html"/>
-    <id>tag:monadnock.net,390</id>
-    <issued>2024-11-16</issued>
-    <modified>2024-11-16</modified>
   </entry>
 </feed>
