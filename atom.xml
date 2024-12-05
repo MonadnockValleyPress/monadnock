@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-12-04</modified>
+  <modified>2024-12-05</modified>
+  <entry>
+    <title>John Dryden: Under Mr Milton's Picture, Before His Paradise Lost</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/dryden/milton.html"/>
+    <id>tag:monadnock.net,402</id>
+    <issued>2024-12-05</issued>
+    <modified>2024-12-05</modified>
+  </entry>
   <entry>
     <title>John Dryden: The Tears of Amynta</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/dryden/amynta.html"/>
@@ -68,12 +75,5 @@
     <id>tag:monadnock.net,393</id>
     <issued>2024-11-19</issued>
     <modified>2024-11-19</modified>
-  </entry>
-  <entry>
-    <title>Andrew Marvell: An Horatian Ode upon Cromwell's Return from Ireland</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/marvell/cromwell.html"/>
-    <id>tag:monadnock.net,392</id>
-    <issued>2024-11-18</issued>
-    <modified>2024-11-18</modified>
   </entry>
 </feed>
