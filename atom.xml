@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-12-05</modified>
+  <modified>2024-12-06</modified>
+  <entry>
+    <title>John Dryden: On the Death of Mr Purcell</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/dryden/purcell.html"/>
+    <id>tag:monadnock.net,403</id>
+    <issued>2024-12-06</issued>
+    <modified>2024-12-06</modified>
+  </entry>
   <entry>
     <title>John Dryden: Under Mr Milton's Picture, Before His Paradise Lost</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/dryden/milton.html"/>
@@ -68,12 +75,5 @@
     <id>tag:monadnock.net,394</id>
     <issued>2024-11-20</issued>
     <modified>2024-11-20</modified>
-  </entry>
-  <entry>
-    <title>John Keats: Ode to Apollo</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/keats/apollo.html"/>
-    <id>tag:monadnock.net,393</id>
-    <issued>2024-11-19</issued>
-    <modified>2024-11-19</modified>
   </entry>
 </feed>
