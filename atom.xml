@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-12-08</modified>
+  <modified>2024-12-10</modified>
+  <entry>
+    <title>Louise Bogan: Thirteen poems from Body of This Death</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/bogan/"/>
+    <id>tag:monadnock.net,406</id>
+    <issued>2024-12-10</issued>
+    <modified>2024-12-10</modified>
+  </entry>
   <entry>
     <title>John Dryden: To the Pious Memory of the Accomplished Young Lady Mrs Anne Killigrew</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/dryden/killigrew.html"/>
@@ -75,12 +82,5 @@
     <id>tag:monadnock.net,396</id>
     <issued>2024-11-22</issued>
     <modified>2024-11-22</modified>
-  </entry>
-  <entry>
-    <title>John Keats: Endymion</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/keats/endymion.html"/>
-    <id>tag:monadnock.net,395</id>
-    <issued>2024-11-21</issued>
-    <modified>2024-11-21</modified>
   </entry>
 </feed>
