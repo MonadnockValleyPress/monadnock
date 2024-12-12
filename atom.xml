@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-12-10</modified>
+  <modified>2024-12-11</modified>
+  <entry>
+    <title>Thomas Carew: Selected poems</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/carew/"/>
+    <id>tag:monadnock.net,407</id>
+    <issued>2024-12-11</issued>
+    <modified>2024-12-11</modified>
+  </entry>
   <entry>
     <title>Louise Bogan: Thirteen poems from Body of This Death</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/bogan/"/>
@@ -75,12 +82,5 @@
     <id>tag:monadnock.net,397</id>
     <issued>2024-11-23</issued>
     <modified>2024-11-23</modified>
-  </entry>
-  <entry>
-    <title>John Keats: Lamia</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/keats/lamia-1.html"/>
-    <id>tag:monadnock.net,396</id>
-    <issued>2024-11-22</issued>
-    <modified>2024-11-22</modified>
   </entry>
 </feed>
