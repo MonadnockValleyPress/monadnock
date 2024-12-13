@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-12-11</modified>
+  <modified>2024-12-12</modified>
+  <entry>
+    <title>Abraham Cowley: Selected poems</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/cowley/"/>
+    <id>tag:monadnock.net,408</id>
+    <issued>2024-12-12</issued>
+    <modified>2024-12-12</modified>
+  </entry>
   <entry>
     <title>Thomas Carew: Selected poems</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/carew/"/>
@@ -75,12 +82,5 @@
     <id>tag:monadnock.net,398</id>
     <issued>2024-11-25</issued>
     <modified>2024-11-25</modified>
-  </entry>
-  <entry>
-    <title>Percy Bysshe Shelley: Adonais</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/shelley/adonais.html"/>
-    <id>tag:monadnock.net,397</id>
-    <issued>2024-11-23</issued>
-    <modified>2024-11-23</modified>
   </entry>
 </feed>
