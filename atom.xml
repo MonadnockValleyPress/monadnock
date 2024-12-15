@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-12-12</modified>
+  <modified>2024-12-14</modified>
+  <entry>
+    <title>Henry Vaughan: Selected poems</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/vaughan/"/>
+    <id>tag:monadnock.net,409</id>
+    <issued>2024-12-14</issued>
+    <modified>2024-12-14</modified>
+  </entry>
   <entry>
     <title>Abraham Cowley: Selected poems</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/cowley/"/>
@@ -75,12 +82,5 @@
     <id>tag:monadnock.net,399</id>
     <issued>2024-12-02</issued>
     <modified>2024-12-02</modified>
-  </entry>
-  <entry>
-    <title>Charlotte Brontë: Jane Eyre</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/bronte-charlotte/jane-eyre.html"/>
-    <id>tag:monadnock.net,398</id>
-    <issued>2024-11-25</issued>
-    <modified>2024-11-25</modified>
   </entry>
 </feed>
