@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-12-17</modified>
+  <modified>2024-12-18</modified>
+  <entry>
+    <title>William Blake: Songs of Innocence</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/blake/innocence.html"/>
+    <id>tag:monadnock.net,412</id>
+    <issued>2024-12-18</issued>
+    <modified>2024-12-18</modified>
+  </entry>
   <entry>
     <title>Friedrich Schiller: Letters on the Aesthetic Education of Man</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/schiller/letters.html"/>
@@ -75,12 +82,5 @@
     <id>tag:monadnock.net,402</id>
     <issued>2024-12-05</issued>
     <modified>2024-12-05</modified>
-  </entry>
-  <entry>
-    <title>John Dryden: The Tears of Amynta</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/dryden/amynta.html"/>
-    <id>tag:monadnock.net,401</id>
-    <issued>2024-12-04</issued>
-    <modified>2024-12-04</modified>
   </entry>
 </feed>
