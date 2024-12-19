@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-12-18</modified>
+  <modified>2024-12-19</modified>
+  <entry>
+    <title>William Blake: Songs of Experience</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/blake/experience.html"/>
+    <id>tag:monadnock.net,413</id>
+    <issued>2024-12-19</issued>
+    <modified>2024-12-19</modified>
+  </entry>
   <entry>
     <title>William Blake: Songs of Innocence</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/blake/innocence.html"/>
@@ -75,12 +82,5 @@
     <id>tag:monadnock.net,403</id>
     <issued>2024-12-06</issued>
     <modified>2024-12-06</modified>
-  </entry>
-  <entry>
-    <title>John Dryden: Under Mr Milton's Picture, Before His Paradise Lost</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/dryden/milton.html"/>
-    <id>tag:monadnock.net,402</id>
-    <issued>2024-12-05</issued>
-    <modified>2024-12-05</modified>
   </entry>
 </feed>
