@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-12-19</modified>
+  <modified>2024-12-20</modified>
+  <entry>
+    <title>William Wordsworth: The Prelude</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/wordsworth/prelude.html"/>
+    <id>tag:monadnock.net,414</id>
+    <issued>2024-12-20</issued>
+    <modified>2024-12-20</modified>
+  </entry>
   <entry>
     <title>William Blake: Songs of Experience</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/blake/experience.html"/>
@@ -75,12 +82,5 @@
     <id>tag:monadnock.net,404</id>
     <issued>2024-12-07</issued>
     <modified>2024-12-07</modified>
-  </entry>
-  <entry>
-    <title>John Dryden: On the Death of Mr Purcell</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/dryden/purcell.html"/>
-    <id>tag:monadnock.net,403</id>
-    <issued>2024-12-06</issued>
-    <modified>2024-12-06</modified>
   </entry>
 </feed>
