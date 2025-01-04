@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2024-12-20</modified>
+  <modified>2025-01-03</modified>
+  <entry>
+    <title>Louise Bogan: Two poems from Dark Summer</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/bogan/"/>
+    <id>tag:monadnock.net,415</id>
+    <issued>2025-01-03</issued>
+    <modified>2025-01-03</modified>
+  </entry>
   <entry>
     <title>William Wordsworth: The Prelude</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/wordsworth/prelude.html"/>
@@ -75,12 +82,5 @@
     <id>tag:monadnock.net,405</id>
     <issued>2024-12-08</issued>
     <modified>2024-12-08</modified>
-  </entry>
-  <entry>
-    <title>John Dryden: Upon Young Mr Rogers of Gloucestershire</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/dryden/rogers.html"/>
-    <id>tag:monadnock.net,404</id>
-    <issued>2024-12-07</issued>
-    <modified>2024-12-07</modified>
   </entry>
 </feed>
