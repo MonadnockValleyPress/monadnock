@@ -7,6 +7,13 @@
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
   <modified>2025-01-05</modified>
   <entry>
+    <title>Henry Wadsworth Longfellow: Evangeline</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/longfellow/evangeline.html"/>
+    <id>tag:monadnock.net,418</id>
+    <issued>2025-01-05</issued>
+    <modified>2025-01-05</modified>
+  </entry>
+  <entry>
     <title>Henrik Ibsen: Hedda Gabler</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/ibsen/hedda-gabler.html"/>
     <id>tag:monadnock.net,417</id>
@@ -75,12 +82,5 @@
     <id>tag:monadnock.net,408</id>
     <issued>2024-12-12</issued>
     <modified>2024-12-12</modified>
-  </entry>
-  <entry>
-    <title>Thomas Carew: Selected poems</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/carew/"/>
-    <id>tag:monadnock.net,407</id>
-    <issued>2024-12-11</issued>
-    <modified>2024-12-11</modified>
   </entry>
 </feed>
