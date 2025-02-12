@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-02-03</modified>
+  <modified>2025-02-11</modified>
+  <entry>
+    <title>Percy Bysshe Shelley: Julian and Maddalo</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/shelley/dirge.html"/>
+    <id>tag:monadnock.net,421</id>
+    <issued>2025-02-11</issued>
+    <modified>2025-02-11</modified>
+  </entry>
   <entry>
     <title>Percy Bysshe Shelley: A Dirge</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/shelley/dirge.html"/>
@@ -75,12 +82,5 @@
     <id>tag:monadnock.net,411</id>
     <issued>2024-12-17</issued>
     <modified>2024-12-17</modified>
-  </entry>
-  <entry>
-    <title>Edmund Spenser: Amoretti</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/spenser/amoretti.html"/>
-    <id>tag:monadnock.net,410</id>
-    <issued>2024-12-16</issued>
-    <modified>2024-12-16</modified>
   </entry>
 </feed>
