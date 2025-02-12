@@ -5,10 +5,17 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-02-11</modified>
+  <modified>2025-02-12</modified>
+  <entry>
+    <title>Percy Bysshe Shelley: Alastor</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/shelley/alastor.html"/>
+    <id>tag:monadnock.net,422</id>
+    <issued>2025-02-12</issued>
+    <modified>2025-02-12</modified>
+  </entry>
   <entry>
     <title>Percy Bysshe Shelley: Julian and Maddalo</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/shelley/dirge.html"/>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/shelley/julian.html"/>
     <id>tag:monadnock.net,421</id>
     <issued>2025-02-11</issued>
     <modified>2025-02-11</modified>
@@ -75,12 +82,5 @@
     <id>tag:monadnock.net,412</id>
     <issued>2024-12-18</issued>
     <modified>2024-12-18</modified>
-  </entry>
-  <entry>
-    <title>Friedrich Schiller: Letters on the Aesthetic Education of Man</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/schiller/letters.html"/>
-    <id>tag:monadnock.net,411</id>
-    <issued>2024-12-17</issued>
-    <modified>2024-12-17</modified>
   </entry>
 </feed>
