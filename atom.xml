@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-02-14</modified>
+  <modified>2025-03-07</modified>
+  <entry>
+    <title>William Wordsworth: Preface to the Lyrical Ballads</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/wordsworth/preface.html"/>
+    <id>tag:monadnock.net,424</id>
+    <issued>2025-03-07</issued>
+    <modified>2025-03-07</modified>
+  </entry>
   <entry>
     <title>Percy Bysshe Shelley: The Triumph of Life</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/shelley/triumph.html"/>
@@ -68,19 +75,5 @@
     <id>tag:monadnock.net,415</id>
     <issued>2025-01-03</issued>
     <modified>2025-01-03</modified>
-  </entry>
-  <entry>
-    <title>William Wordsworth: The Prelude</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/wordsworth/prelude.html"/>
-    <id>tag:monadnock.net,414</id>
-    <issued>2024-12-20</issued>
-    <modified>2024-12-20</modified>
-  </entry>
-  <entry>
-    <title>William Blake: Songs of Experience</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/blake/experience.html"/>
-    <id>tag:monadnock.net,413</id>
-    <issued>2024-12-19</issued>
-    <modified>2024-12-19</modified>
   </entry>
 </feed>
