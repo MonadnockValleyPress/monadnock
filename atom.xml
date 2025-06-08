@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-05-09</modified>
+  <modified>2025-06-07</modified>
+  <entry>
+    <title>Robert Bridges: Nightingales</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/bridges/nightingales.html"/>
+    <id>tag:monadnock.net,428</id>
+    <issued>2025-06-07</issued>
+    <modified>2025-06-07</modified>
+  </entry>
   <entry>
     <title>Randolph Bourne: Trans-National America</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/bourne/america.html"/>
@@ -73,13 +80,6 @@
     <title>Henry Wadsworth Longfellow: Evangeline</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/longfellow/evangeline.html"/>
     <id>tag:monadnock.net,418</id>
-    <issued>2025-01-05</issued>
-    <modified>2025-01-05</modified>
-  </entry>
-  <entry>
-    <title>Henrik Ibsen: Hedda Gabler</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/ibsen/hedda-gabler.html"/>
-    <id>tag:monadnock.net,417</id>
     <issued>2025-01-05</issued>
     <modified>2025-01-05</modified>
   </entry>
