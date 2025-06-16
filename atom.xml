@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-06-07</modified>
+  <modified>2025-06-15</modified>
+  <entry>
+    <title>George Santayana: The Absence of Religion in Shakespeare</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/santayana/shakespeare.html"/>
+    <id>tag:monadnock.net,429</id>
+    <issued>2025-06-15</issued>
+    <modified>2025-06-15</modified>
+  </entry>
   <entry>
     <title>Robert Bridges: Nightingales</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/bridges/nightingales.html"/>
@@ -75,12 +82,5 @@
     <id>tag:monadnock.net,419</id>
     <issued>2025-01-26</issued>
     <modified>2025-01-26</modified>
-  </entry>
-  <entry>
-    <title>Henry Wadsworth Longfellow: Evangeline</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/longfellow/evangeline.html"/>
-    <id>tag:monadnock.net,418</id>
-    <issued>2025-01-05</issued>
-    <modified>2025-01-05</modified>
   </entry>
 </feed>
