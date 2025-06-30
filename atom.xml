@@ -7,6 +7,13 @@
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
   <modified>2025-06-30</modified>
   <entry>
+    <title>A.E. Housman: Introductory Lecture</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/housman/lecture.html"/>
+    <id>tag:monadnock.net,433</id>
+    <issued>2025-06-30</issued>
+    <modified>2025-06-30</modified>
+  </entry>
+  <entry>
     <title>Randolph Bourne: The Virtues and the Seasons of Life</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/bourne/virtues.html"/>
     <id>tag:monadnock.net,432</id>
@@ -82,12 +89,5 @@
     <id>tag:monadnock.net,422</id>
     <issued>2025-02-12</issued>
     <modified>2025-02-12</modified>
-  </entry>
-  <entry>
-    <title>Percy Bysshe Shelley: Julian and Maddalo</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/shelley/julian.html"/>
-    <id>tag:monadnock.net,421</id>
-    <issued>2025-02-11</issued>
-    <modified>2025-02-11</modified>
   </entry>
 </feed>
