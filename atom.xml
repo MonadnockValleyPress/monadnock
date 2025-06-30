@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-06-29</modified>
+  <modified>2025-06-30</modified>
+  <entry>
+    <title>Randolph Bourne: The Virtues and the Seasons of Life</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/bourne/virtues.html"/>
+    <id>tag:monadnock.net,432</id>
+    <issued>2025-06-30</issued>
+    <modified>2025-06-30</modified>
+  </entry>
   <entry>
     <title>Ten Poems by William Carlos Williams</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/williams/index.html"/>
@@ -82,12 +89,5 @@
     <id>tag:monadnock.net,421</id>
     <issued>2025-02-11</issued>
     <modified>2025-02-11</modified>
-  </entry>
-  <entry>
-    <title>Percy Bysshe Shelley: A Dirge</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/shelley/dirge.html"/>
-    <id>tag:monadnock.net,420</id>
-    <issued>2025-02-03</issued>
-    <modified>2025-02-03</modified>
   </entry>
 </feed>
