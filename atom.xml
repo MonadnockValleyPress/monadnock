@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-07-01</modified>
+  <modified>2025-07-02</modified>
+  <entry>
+    <title>Randolph Bourne: Some Thoughts on Religion</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/bourne/religion.html"/>
+    <id>tag:monadnock.net,436</id>
+    <issued>2025-07-02</issued>
+    <modified>2025-07-02</modified>
+  </entry>
   <entry>
     <title>Randolph Bourne: The Adventure of Life</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/bourne/adventure.html"/>
@@ -82,12 +89,5 @@
     <id>tag:monadnock.net,425</id>
     <issued>2025-05-08</issued>
     <modified>2025-05-08</modified>
-  </entry>
-  <entry>
-    <title>William Wordsworth: Preface to the Lyrical Ballads</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/wordsworth/preface.html"/>
-    <id>tag:monadnock.net,424</id>
-    <issued>2025-03-07</issued>
-    <modified>2025-03-07</modified>
   </entry>
 </feed>
