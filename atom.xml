@@ -7,6 +7,13 @@
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
   <modified>2025-07-02</modified>
   <entry>
+    <title>Xenophon: The Symposium</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/xenophon/symposium.html"/>
+    <id>tag:monadnock.net,437</id>
+    <issued>2025-07-02</issued>
+    <modified>2025-07-02</modified>
+  </entry>
+  <entry>
     <title>Randolph Bourne: Some Thoughts on Religion</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/bourne/religion.html"/>
     <id>tag:monadnock.net,436</id>
@@ -82,12 +89,5 @@
     <id>tag:monadnock.net,426</id>
     <issued>2025-05-09</issued>
     <modified>2025-05-09</modified>
-  </entry>
-  <entry>
-    <title>Thomas Jefferson: Letter to Henry Lee</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/jefferson/lee.html"/>
-    <id>tag:monadnock.net,425</id>
-    <issued>2025-05-08</issued>
-    <modified>2025-05-08</modified>
   </entry>
 </feed>
