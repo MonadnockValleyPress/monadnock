@@ -9,9 +9,44 @@
   <entry>
     <title>Aristotle: Rhetoric</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/aristotle/rhetoric.html"/>
-    <id>tag:monadnock.net,435</id>
+    <id>tag:monadnock.net,440</id>
     <issued>2025-08-29</issued>
     <modified>2025-08-29</modified>
+  </entry>
+  <entry>
+    <title>Edward de Vere: Nineteen Poems</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/devere/"/>
+    <id>tag:monadnock.net,439</id>
+    <issued>2025-07-29</issued>
+    <modified>2025-07-29</modified>
+  </entry>
+  <entry>
+    <title>T.E. Hulme: Twelve Poems</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/hulme/"/>
+    <id>tag:monadnock.net,438</id>
+    <issued>2025-07-21</issued>
+    <modified>2025-07-21</modified>
+  </entry>
+  <entry>
+    <title>Xenophon: The Symposium</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/xenophon/symposium.html"/>
+    <id>tag:monadnock.net,437</id>
+    <issued>2025-07-02</issued>
+    <modified>2025-07-02</modified>
+  </entry>
+  <entry>
+    <title>Randolph Bourne: Some Thoughts on Religion</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/bourne/religion.html"/>
+    <id>tag:monadnock.net,436</id>
+    <issued>2025-07-02</issued>
+    <modified>2025-07-02</modified>
+  </entry>
+  <entry>
+    <title>Randolph Bourne: The Adventure of Life</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/bourne/adventure.html"/>
+    <id>tag:monadnock.net,435</id>
+    <issued>2025-07-01</issued>
+    <modified>2025-07-01</modified>
   </entry>
   <entry>
     <title>George Santayana: The Elements and Function of Poetry</title>
@@ -47,47 +82,5 @@
     <id>tag:monadnock.net,430</id>
     <issued>2025-06-28</issued>
     <modified>2025-06-28</modified>
-  </entry>
-  <entry>
-    <title>George Santayana: The Absence of Religion in Shakespeare</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/santayana/shakespeare.html"/>
-    <id>tag:monadnock.net,429</id>
-    <issued>2025-06-15</issued>
-    <modified>2025-06-15</modified>
-  </entry>
-  <entry>
-    <title>Robert Bridges: Nightingales</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/bridges/nightingales.html"/>
-    <id>tag:monadnock.net,428</id>
-    <issued>2025-06-07</issued>
-    <modified>2025-06-07</modified>
-  </entry>
-  <entry>
-    <title>Randolph Bourne: Trans-National America</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/bourne/america.html"/>
-    <id>tag:monadnock.net,427</id>
-    <issued>2025-05-09</issued>
-    <modified>2025-05-09</modified>
-  </entry>
-  <entry>
-    <title>George Santayana: Walt Whitman</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/santayana/whitman.html"/>
-    <id>tag:monadnock.net,426</id>
-    <issued>2025-05-09</issued>
-    <modified>2025-05-09</modified>
-  </entry>
-  <entry>
-    <title>Thomas Jefferson: Letter to Henry Lee</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/jefferson/lee.html"/>
-    <id>tag:monadnock.net,425</id>
-    <issued>2025-05-08</issued>
-    <modified>2025-05-08</modified>
-  </entry>
-  <entry>
-    <title>William Wordsworth: Preface to the Lyrical Ballads</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/wordsworth/preface.html"/>
-    <id>tag:monadnock.net,424</id>
-    <issued>2025-03-07</issued>
-    <modified>2025-03-07</modified>
   </entry>
 </feed>
