@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-08-29</modified>
+  <modified>2025-08-30</modified>
+  <entry>
+    <title>Xenophon: Oeconomicus</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/xenophon/oeconomicus.html"/>
+    <id>tag:monadnock.net,441</id>
+    <issued>2025-08-30</issued>
+    <modified>2025-08-30</modified>
+  </entry>
   <entry>
     <title>Aristotle: Rhetoric</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/aristotle/rhetoric.html"/>
@@ -75,12 +82,5 @@
     <id>tag:monadnock.net,431</id>
     <issued>2025-06-29</issued>
     <modified>2025-06-29</modified>
-  </entry>
-  <entry>
-    <title>John Dryden: Veni, Creator Spiritus</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/dryden/spiritus.html"/>
-    <id>tag:monadnock.net,430</id>
-    <issued>2025-06-28</issued>
-    <modified>2025-06-28</modified>
   </entry>
 </feed>
