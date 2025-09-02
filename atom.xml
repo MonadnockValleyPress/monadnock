@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-08-30</modified>
+  <modified>2025-09-02</modified>
+  <entry>
+    <title>Sir Walter Raleigh: A Farewell to False Love</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/raleigh/farewell.html"/>
+    <id>tag:monadnock.net,442</id>
+    <issued>2025-09-02</issued>
+    <modified>2025-09-02</modified>
+  </entry>
   <entry>
     <title>Xenophon: Oeconomicus</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/xenophon/oeconomicus.html"/>
@@ -75,12 +82,5 @@
     <id>tag:monadnock.net,432</id>
     <issued>2025-06-30</issued>
     <modified>2025-06-30</modified>
-  </entry>
-  <entry>
-    <title>Ten Poems by William Carlos Williams</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/williams/index.html"/>
-    <id>tag:monadnock.net,431</id>
-    <issued>2025-06-29</issued>
-    <modified>2025-06-29</modified>
   </entry>
 </feed>
