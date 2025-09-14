@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-09-13</modified>
+  <modified>2025-09-14</modified>
+  <entry>
+    <title>Laura Riding: Death as Death</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/riding/death-as-death.html"/>
+    <id>tag:monadnock.net,446</id>
+    <issued>2025-09-14</issued>
+    <modified>2025-09-14</modified>
+  </entry>
   <entry>
     <title>Laura Riding: The Troubles of a Book</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/riding/book.html"/>
@@ -82,12 +89,5 @@
     <id>tag:monadnock.net,435</id>
     <issued>2025-07-01</issued>
     <modified>2025-07-01</modified>
-  </entry>
-  <entry>
-    <title>George Santayana: The Elements and Function of Poetry</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/santayana/poetry.html"/>
-    <id>tag:monadnock.net,434</id>
-    <issued>2025-06-30</issued>
-    <modified>2025-06-30</modified>
   </entry>
 </feed>
