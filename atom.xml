@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-09-15</modified>
+  <modified>2025-09-22</modified>
+  <entry>
+    <title>Mark Twain: Letter to Walt Whitman</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/twain/whitman.html"/>
+    <id>tag:monadnock.net,451</id>
+    <issued>2025-09-22</issued>
+    <modified>2025-09-22</modified>
+  </entry>
   <entry>
     <title>Laura Riding: Helen's Faces</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/riding/helen2.html"/>
@@ -75,12 +82,5 @@
     <id>tag:monadnock.net,441</id>
     <issued>2025-08-30</issued>
     <modified>2025-08-30</modified>
-  </entry>
-  <entry>
-    <title>Aristotle: Rhetoric</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/aristotle/rhetoric.html"/>
-    <id>tag:monadnock.net,440</id>
-    <issued>2025-08-29</issued>
-    <modified>2025-08-29</modified>
   </entry>
 </feed>
