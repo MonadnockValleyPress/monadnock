@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-09-22</modified>
+  <modified>2025-09-23</modified>
+  <entry>
+    <title>Mark Twain: A True Story</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/twain/true-story.html"/>
+    <id>tag:monadnock.net,452</id>
+    <issued>2025-09-23</issued>
+    <modified>2025-09-23</modified>
+  </entry>
   <entry>
     <title>Mark Twain: Letter to Walt Whitman</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/twain/whitman.html"/>
@@ -75,12 +82,5 @@
     <id>tag:monadnock.net,442</id>
     <issued>2025-09-02</issued>
     <modified>2025-09-02</modified>
-  </entry>
-  <entry>
-    <title>Xenophon: Oeconomicus</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/xenophon/oeconomicus.html"/>
-    <id>tag:monadnock.net,441</id>
-    <issued>2025-08-30</issued>
-    <modified>2025-08-30</modified>
   </entry>
 </feed>
