@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-09-23</modified>
+  <modified>2025-09-25</modified>
+  <entry>
+    <title>Sophocles: Ajax</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/sophocles/ajax.html"/>
+    <id>tag:monadnock.net,453</id>
+    <issued>2025-09-25</issued>
+    <modified>2025-09-25</modified>
+  </entry>
   <entry>
     <title>Mark Twain: A True Story</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/twain/true-story.html"/>
@@ -73,13 +80,6 @@
     <title>Herodotus: The Histories</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/herodotus/"/>
     <id>tag:monadnock.net,443</id>
-    <issued>2025-09-02</issued>
-    <modified>2025-09-02</modified>
-  </entry>
-  <entry>
-    <title>Sir Walter Raleigh: A Farewell to False Love</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/raleigh/farewell.html"/>
-    <id>tag:monadnock.net,442</id>
     <issued>2025-09-02</issued>
     <modified>2025-09-02</modified>
   </entry>
