@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-11-23</modified>
+  <modified>2025-11-30</modified>
+  <entry>
+    <title>Michel de Montaigne: That Men Are Justly Punished for Being Obstinate in the Defence of a Fort That Is Not in Reason to Be Defended</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/montaigne/punished2.html"/>
+    <id>tag:monadnock.net,455</id>
+    <issued>2025-11-30</issued>
+    <modified>2025-11-30</modified>
+  </entry>
   <entry>
     <title>Abraham Lincoln: Electric Cord Speech</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/lincoln/electric-cord.html"/>
@@ -75,12 +82,5 @@
     <id>tag:monadnock.net,445</id>
     <issued>2025-09-13</issued>
     <modified>2025-09-13</modified>
-  </entry>
-  <entry>
-    <title>Xenophon: Memorabilia</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/xenophon/memorabilia.html"/>
-    <id>tag:monadnock.net,444</id>
-    <issued>2025-09-04</issued>
-    <modified>2025-09-04</modified>
   </entry>
 </feed>
