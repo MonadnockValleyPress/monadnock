@@ -5,7 +5,14 @@
   <link rel="alternate" type="text/html" href="https://monadnock.net/chronology.html"/>
   <id>https://monadnock.net/</id>
   <copyright>https://creativecommons.org/publicdomain/zero/1.0/</copyright>
-  <modified>2025-11-30</modified>
+  <modified>2026-01-03</modified>
+  <entry>
+    <title>Matthew Arnold: Sohrab and Rustum</title>
+    <link type="text/html" rel="alternate" href="https://monadnock.net/arnold/sohrab-and-rustum.html"/>
+    <id>tag:monadnock.net,456</id>
+    <issued>2026-01-03</issued>
+    <modified>2026-01-03</modified>
+  </entry>
   <entry>
     <title>Michel de Montaigne: That Men Are Justly Punished for Being Obstinate in the Defence of a Fort That Is Not in Reason to Be Defended</title>
     <link type="text/html" rel="alternate" href="https://monadnock.net/montaigne/punished2.html"/>
@@ -75,12 +82,5 @@
     <id>tag:monadnock.net,446</id>
     <issued>2025-09-14</issued>
     <modified>2025-09-14</modified>
-  </entry>
-  <entry>
-    <title>Laura Riding: The Troubles of a Book</title>
-    <link type="text/html" rel="alternate" href="https://monadnock.net/riding/book.html"/>
-    <id>tag:monadnock.net,445</id>
-    <issued>2025-09-13</issued>
-    <modified>2025-09-13</modified>
   </entry>
 </feed>
